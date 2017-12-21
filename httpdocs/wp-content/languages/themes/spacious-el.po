@@ -1,0 +1,732 @@
+# Translation of Spacious in Greek
+# This file is distributed under the same license as the Spacious package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-05 09:59:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Spacious\n"
+
+#: inc/customizer.php:696
+msgid "Theme Info"
+msgstr "Πληροφορίες θέματος"
+
+#: functions.php:159
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Δεν έχετε επαρκή δικαιώματα για πρόσβαση σε αυτή τη σελίδα."
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr "Μεταστοιχεία"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: inc/customizer.php:46
+msgid "If you like our work. Buy us a beer."
+msgstr "Εάν σου αρέσει η δουλειά μας, αγόρασε μας μια μπύρα"
+
+#: inc/customizer.php:38
+msgid "Rate this theme"
+msgstr "Βαθμολογήστε αυτό το θέμα"
+
+#: inc/customizer.php:34
+msgid "View Demo"
+msgstr "Δες το Demo"
+
+#: inc/customizer.php:30
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/customizer.php:26
+msgid "Free Support"
+msgstr "Δωρεάν Υποστήριξη"
+
+#: inc/customizer.php:61
+msgid "About Spacious"
+msgstr "Σχετικά με το Spacious"
+
+#: inc/customizer.php:521
+msgid "Activate slider"
+msgstr "Ενεργοποίηση slider"
+
+#: inc/customizer.php:534
+msgid "Check to activate slider."
+msgstr "Επιλέξτε για ενεργοποίηση slider."
+
+#: inc/customizer.php:555
+msgid "Check to disable slider in Posts Page"
+msgstr "Επιλέξτε για απενεργοποίηση slider στη σελίδα άρθρων"
+
+#: inc/customizer.php:542
+msgid "Disable slider in Posts page"
+msgstr "Απενεργοποίηση slider στη σελίδα άρθρων"
+
+#: inc/customizer.php:633
+msgid "Enter link to redirect slider when clicked"
+msgstr "Δώστε σύνδεσμο για ανακατεύθυνση όταν πατηθεί το slider"
+
+#: inc/customizer.php:619
+msgid "Enter the button text. Default is \"Read more\""
+msgstr "Δώστε το κείμενο του κουμπιού. Η προεπιλογή είναι \"Διαβάστε Περισσότερα\""
+
+#: inc/customizer.php:591
+msgid "Enter title for your slider."
+msgstr "Δώστε τίτλο για το slider."
+
+#: inc/customizer.php:605
+msgid "Enter your slider description."
+msgstr "Δώστε περιγραφή για το slider."
+
+#: inc/customizer.php:564
+msgid "Image Upload #%1$s"
+msgstr ""
+"Μεταφόρτωση Εικόνας \n"
+"#%1$s"
+
+#: inc/customizer.php:22
+msgid "Upgrade to Pro"
+msgstr "Αναβάθμιση στη Pro έκδοση"
+
+#: inc/customizer.php:577
+msgid "Upload slider image."
+msgstr "Μεταφόρτωση εικόνας slider."
+
+#: inc/customizer.php:515
+msgid "Slider"
+msgstr "Μηχανισμός κύλισης"
+
+#: inc/customizer.php:489
+msgid "Upload favicon for your site."
+msgstr "Μεταφορτώστε εικονίδιο για τη σελίδα σας."
+
+#: inc/customizer.php:477
+msgid "Upload favicon"
+msgstr "Φόρτωση Favicon"
+
+#: inc/customizer.php:450
+msgid "Additional"
+msgstr "Επιπλέον"
+
+#: inc/customizer.php:456
+msgid "Activate favicon"
+msgstr "Ενεργοποιήστε εικονίδιο"
+
+#: inc/customizer.php:469
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr "Επιλέξτε για ενεργοποίηση εικονιδίου. Μεταφορτώστε εικονίδιο από την επιλογή παρακάτω"
+
+#: inc/customizer.php:440
+msgid "Write your custom css."
+msgstr "Γράψτε το δικό σας CSS."
+
+#: inc/customizer.php:427
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένο CSS"
+
+#: inc/customizer.php:400
+msgid "Choose the light or dark skin. This will be reflected in whole site."
+msgstr "Επιλέξτε ανοιχτό ή σκούρο θέμα. Αυτό θα επηρεάσει όλη τη σελίδα σας."
+
+#: inc/customizer.php:387
+msgid "Color Skin"
+msgstr "Χρώμα Θέματος"
+
+#: inc/customizer.php:358
+msgid "Blog Full Content"
+msgstr "Πλήρες κείμενο άρθρου"
+
+#: inc/customizer.php:357
+msgid "Blog Image Alternate Medium"
+msgstr "Εναλλακτική μεσαία εικόνα άρθρου"
+
+#: inc/customizer.php:355
+msgid "Blog Image Large"
+msgstr "Πλήρες άρθρο με μεγάλη εικόνα"
+
+#: inc/customizer.php:356
+msgid "Blog Image Medium"
+msgstr "Σύνοψη άρθρου με μεσαία εικόνα"
+
+#: inc/customizer.php:340
+msgid "Blog Posts display type"
+msgstr "Τύπος εμφάνισης άρθρων Ιστολογίου"
+
+#: inc/customizer.php:353
+msgid "Choose the display type for the latests posts view or posts page view (static front page)."
+msgstr "Επιλέξτε τον τρόπο εμφάνισης των άρθρων στην εμφάνιση των τελευταίων άρθρων ή στην αρχική στατική σελίδα."
+
+#: inc/customizer.php:286
+msgid "Default layout for pages only"
+msgstr "Προεπιλεγμένη διάταξη για σελίδες μόνο"
+
+#: inc/customizer.php:313
+msgid "Default layout for single posts only"
+msgstr "Προεπιλεγμένη διάταξη για άρθρα μόνο"
+
+#: inc/customizer.php:367
+msgid "Primary color option"
+msgstr "Πρωτεύον χρώμα"
+
+#: inc/customizer.php:299
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη για σελίδες. Αυτή η διάταξη θα επηρεάσει όλες τις σελίδες του ιστοχώρου εκτός εάν οριστεί διαφορετική διάταξη σε συγκεκριμένη σελίδα."
+
+#: inc/customizer.php:326
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη για μεμονωμένα άρθρα. Αυτή η διάταξη θα επηρεάσει όλα τα μεμονωμένα άρθρα του ιστοχώρου εκτός εάν οριστεί διαφορετική διάταξη σε συγκεκριμένα άρθρα."
+
+#: inc/customizer.php:272
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη. Αυτή η διάταξη θα επηρεάσει γενικές περιοχές της σελίδας όπως αρχείο, αναζήτηση κλπ. Η διάταξη των μεμονωμένων άρθρων και σελίδων μπορεί να ρυθμιστεί στις παρακάτω επιλογές."
+
+#: inc/customizer.php:379
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Αυτό θα επηρεάσει συνδέσμους, κουμπιά και πολλά άλλα. Διαλέξτε ένα χρώμα να ταιριάζει στη σελίδα σας."
+
+#: inc/customizer.php:173
+msgid "Site Layout"
+msgstr "Διάταξη του site"
+
+#: inc/customizer.php:259
+msgid "Default layout"
+msgstr "Προεπιλεγμένη διάταξη"
+
+#: inc/customizer.php:188
+msgid "Boxed layout with content width of 1218px"
+msgstr "Διάταξη boxed με πλάτος περιεχομένου 1218px"
+
+#: inc/customizer.php:189
+msgid "Boxed layout with content width of 978px"
+msgstr "Διάταξη boxed με πλάτος περιεχομένου 978px"
+
+#: inc/customizer.php:186
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Επιλέξτε τη διάταξη ιστοχώρου. Η αλλαγή θα επηρεάσει όλη τη σελίδα."
+
+#: inc/customizer.php:190
+msgid "Wide layout with content width of 1218px"
+msgstr "Διάταξη width με πλάτος περιεχομένου 1218px"
+
+#: inc/customizer.php:191
+msgid "Wide layout with content width of 978px"
+msgstr "Διάταξη wide με πλάτος περιεχομένου 978px"
+
+#: inc/customizer.php:167
+msgid "Design"
+msgstr "Σχέδιο"
+
+#: inc/customizer.php:128
+msgid "Choose the option that you want."
+msgstr "Επιλέξτε την επιλογή που θέλετε."
+
+#: inc/customizer.php:154
+msgid "Choose top header image display position."
+msgstr "Επιλέξτε τη θέση της εικόνας κεφαλίδας."
+
+#: inc/customizer.php:141
+msgid "Header Image Position"
+msgstr "Θέση Εικόνας Κεφαλίδας"
+
+#: inc/customizer.php:157
+msgid "Position Above (Default): Display the Header image just above the site title and main menu part."
+msgstr "Θέση από πάνω (Προεπιλογή): Εμφάνισε την εικόνα κεφαλίδας ακριβώς πάνω από τον τίτλο του ιστοχώρου και το κυρίως μενού."
+
+#: inc/customizer.php:158
+msgid "Position Below: Display the Header image just below the site title and main menu part."
+msgstr "Θέση από κάτω: Εμφάνισε την εικόνα κεφαλίδας ακριβώς κάτω από τον τίτλο του ιστοχώρου και το κυρίως μενού."
+
+#: inc/customizer.php:115
+msgid "Show"
+msgstr "Προβολή"
+
+#: inc/customizer.php:131
+msgid "Header Logo Only"
+msgstr "Μόνο Λογότυπο Κεφαλίδας "
+
+#: inc/customizer.php:132
+msgid "Header Text Only"
+msgstr "Μόνο Κείμενο Κεφαλίδας "
+
+#: inc/customizer.php:134
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: inc/customizer.php:133
+msgid "Show Both"
+msgstr "Εμφάνιση και των δύο"
+
+#: inc/customizer.php:107
+msgid "Upload logo for your header. Recommended image size is 100 X 100 pixels."
+msgstr "Μεταφορτώστε λογότυπο για τη κεφαλίδα. Προτεινόμενο μέγεθος εικόνας 100 x 100 εικονοστοιχεία."
+
+#: inc/customizer.php:95
+msgid "Header Logo"
+msgstr "Λογότυπο Κεφαλίδας "
+
+#: inc/customizer.php:89
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: navigation.php:35
+msgid "Next &rarr;"
+msgstr "Επόμενη →"
+
+#: navigation.php:34
+msgid "&larr; Previous"
+msgstr "← Προηγούμενη"
+
+#: navigation.php:23
+msgid "Next &raquo;"
+msgstr "Επόμενη &raquo;"
+
+#: navigation.php:22
+msgid "&laquo; Previous"
+msgstr "&laquo; Προηγούμενη"
+
+#: inc/widgets/widgets.php:568
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: inc/widgets/widgets.php:528
+msgid "Byline:"
+msgstr "Υπογραφή Συντάκτη"
+
+#: inc/widgets/widgets.php:542
+msgid "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr "Εμφάνιση μερικών σελίδων σας ως πρόσφατη εργασία. Καταλληλότερο για άνω ή κάτω στήλη Business θέματος."
+
+#: inc/widgets/widgets.php:544
+msgid "TG: Featured Widget"
+msgstr "TG: Widget Χαρακτηριστικών"
+
+#: inc/widgets/widgets.php:525
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: inc/widgets/widgets.php:402
+msgid "Button Redirect Link:"
+msgstr "Σύνδεσμος ανακατεύθυνσης κουμπιού:"
+
+#: inc/widgets/widgets.php:398
+msgid "Button Text:"
+msgstr "Κείμενο Κουμπιού:"
+
+#: inc/widgets/widgets.php:395
+msgid "Call to Action Additional Text"
+msgstr "Επιπλέον κείμενο widget \"Κλήση για Δράση\""
+
+#: inc/widgets/widgets.php:393
+msgid "Call to Action Main Text"
+msgstr "Κυρίως κείμενο widget \"Κλήση για Δράση\""
+
+#: inc/widgets/widgets.php:276
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr "Εμφάνιση μερικών σελίδων ως υπηρεσίες. Καταλληλότερο για στήλη κορυφής θέματος Business θέματος ή στήλη υποσέλιδου."
+
+#: inc/widgets/widgets.php:475
+msgid "Display Testimonial"
+msgstr "Εμφάνιση Μαρτυρίας"
+
+#: inc/widgets/widgets.php:206 inc/widgets/widgets.php:211
+msgid "Show Image After Title"
+msgstr "Εμφάνιση Εικόνας μετά τον τίτλο"
+
+#: inc/widgets/widgets.php:205 inc/widgets/widgets.php:210
+msgid "Show Image Before Title"
+msgstr "Εμφάνιση Εικόνας πριν τον τίτλο"
+
+#: inc/widgets/widgets.php:522
+msgid "Testimonial Description"
+msgstr "Περιγραφή Μαρτυρίας"
+
+#: inc/widgets/widgets.php:377
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Κλήση για Δράση"
+
+#: inc/widgets/widgets.php:278
+msgid "TG: Services"
+msgstr "TG: Υπηρεσίες"
+
+#: inc/widgets/widgets.php:477
+msgid "TG: Testimonial"
+msgstr "TG: Μαρτυρίες"
+
+#: inc/widgets/widgets.php:375
+msgid "Use this widget to show the call to action section."
+msgstr "Χρησιμοποιήστε αυτό το Widget για να εμφανίσετε το τμήμα \"κλήση για δράση\"."
+
+#: inc/widgets/widgets.php:200
+msgid "Remove Featured image"
+msgstr "Αφαίρεση επιλεγμένης εικόνας"
+
+#: inc/widgets/widgets.php:196 inc/widgets/widgets.php:294
+#: inc/widgets/widgets.php:574
+msgid "Page"
+msgstr "Σελίδα"
+
+#: inc/widgets/widgets.php:193
+msgid "Displays the title of the Page if title input is empty."
+msgstr "Εμφανίζει τον τίτλο της σελίδας εάν το πεδίο τίτλος είναι κενός."
+
+#: inc/widgets/widgets.php:190 inc/widgets/widgets.php:520
+#: inc/widgets/widgets.php:565
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: inc/widgets/widgets.php:85
+msgid "Business Bottom Sidebar"
+msgstr "Στήλη Υποσέλιδου θέματος Business"
+
+#: inc/widgets/widgets.php:62
+msgid "Business Middle Left Sidebar"
+msgstr "Business Μεσαία Αριστερή Στήλη"
+
+#: inc/widgets/widgets.php:73
+msgid "Business Middle Right Sidebar"
+msgstr "Business Μεσαία Δεξιά Στήλη"
+
+#: inc/widgets/widgets.php:51
+msgid "Business Top Sidebar"
+msgstr "Στήλη Κεφαλίδας Σελίδας Business"
+
+#: inc/widgets/widgets.php:96
+msgid "Contact Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Επικοινωνίας"
+
+#: inc/widgets/widgets.php:176
+msgid "Display Featured Single Page"
+msgstr "Εμφάνιση Επιλεγμένης Σελίδας"
+
+#: inc/widgets/widgets.php:107
+msgid "Error 404 Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Λάθους 404"
+
+#: inc/widgets/widgets.php:151
+msgid "Footer Sidebar Four"
+msgstr "Στήλη Υποσέλιδου 4η"
+
+#: inc/widgets/widgets.php:118
+msgid "Footer Sidebar One"
+msgstr "Στήλη Υποσέλιδου 1η"
+
+#: inc/widgets/widgets.php:140
+msgid "Footer Sidebar Three"
+msgstr "Στήλη Υποσέλιδου 3η"
+
+#: inc/widgets/widgets.php:129
+msgid "Footer Sidebar Two"
+msgstr "Στήλη Υποσέλιδου 2η"
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "Στήλη κεφαλίδας"
+
+#: inc/widgets/widgets.php:153
+msgid "Shows widgets at footer sidebar four."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 4."
+
+#: inc/widgets/widgets.php:120
+msgid "Shows widgets at footer sidebar one."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 1."
+
+#: inc/widgets/widgets.php:142
+msgid "Shows widgets at footer sidebar three."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 3."
+
+#: inc/widgets/widgets.php:131
+msgid "Shows widgets at footer sidebar two."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 2."
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Εμφάνιση Widgets στη κεφαλίδα ακριβώς πάνω από το κυρίως μενού."
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Business Page Template Bottom Section."
+msgstr "Εμφάνιση Widgets στο κάτω τμήμα του Business θέματος."
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Business Page Template Middle Section Left Half."
+msgstr "Εμφάνιση Widgets στο αριστερό κομμάτι του μεσαίου τμήματος του Business θέματος."
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Business Page Template Middle Section Right Half."
+msgstr "Εμφάνιση Widgets στο δεξί κομμάτι του μεσαίου τμήματος του Business θέματος."
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template Top Section."
+msgstr "Εμφάνιση Widgets στο άνω τμήμα του Business θέματος."
+
+#: inc/widgets/widgets.php:98
+msgid "Shows widgets on Contact Page Template."
+msgstr "Εμφάνιση Widgets στη στήλη σελίδας επικοινωνίας."
+
+#: inc/widgets/widgets.php:109
+msgid "Shows widgets on Error 404 page."
+msgstr "Εμφάνιση Widgets στη στήλη σελίδας σφάλματος 404."
+
+#: inc/widgets/widgets.php:187
+msgid "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
+msgstr "Κατάλληλο για στήλη κεφαλίδας αρχικής σελίδας, κάτω αριστερής στήλης αρχικής σελίδας και πλευρικής στήλης."
+
+#: inc/widgets/widgets.php:53 inc/widgets/widgets.php:87
+msgid "Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Widget"
+msgstr "Κατάλληλο Widget: TG: Υπηρεσίες, TG: Widget Κλήση για Δράση, TG: Widget Προτεινόμενο"
+
+#: inc/widgets/widgets.php:64 inc/widgets/widgets.php:75
+msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
+msgstr "Κατάλληλο Widget: TG: Μαρτυρίες, TG: Επιλεγμένη Σελίδα"
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην δεξιά πλευρά."
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην αριστερή πλευρά."
+
+#: inc/header-functions.php:176
+msgid "You are here:"
+msgstr "Είστε εδώ:"
+
+#: inc/header-functions.php:143
+msgid "Search Results"
+msgstr "Αποτελέσματα αναζήτησης"
+
+#: inc/header-functions.php:140
+msgid "Page NOT Found"
+msgstr "Η σελίδα δεν υπάρχει"
+
+#: inc/header-functions.php:135 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr "Αρχείο"
+
+#: inc/header-functions.php:132
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: inc/header-functions.php:129
+msgid "Quotes"
+msgstr "Παράθεση"
+
+#: inc/header-functions.php:126
+msgid "Videos"
+msgstr "Βίντεο"
+
+#: inc/header-functions.php:123
+msgid "Images"
+msgstr "Εικόνες"
+
+#: inc/header-functions.php:120
+msgid "Asides"
+msgstr "Άτιτλο"
+
+#: inc/header-functions.php:117
+msgid "Year: %s"
+msgstr "Έτος: %s"
+
+#: inc/header-functions.php:114
+msgid "Month: %s"
+msgstr "Μήνας: %s"
+
+#: inc/header-functions.php:111
+msgid "Day: %s"
+msgstr "Ημέρα: %s"
+
+#: inc/header-functions.php:103
+msgid "Author: %s"
+msgstr "Συντάκτης: %s"
+
+#. #-#-#-#-#  spacious.pot (Spacious 1.3.7)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:455
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:457
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/functions.php:457
+msgid "Powered by %s."
+msgstr "Κατασκευασμένο με %s."
+
+#: inc/functions.php:457
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+"Θέμα: \n"
+"%1$s από %2$s."
+
+#: inc/functions.php:453
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:433
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: inc/functions.php:428
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας αναμένει έγκριση."
+
+#: inc/functions.php:422
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Σύνδεσμος</a>"
+
+#: inc/functions.php:420
+msgid "%1$s at %2$s"
+msgstr "%1$s στο %2$s"
+
+#: inc/functions.php:417
+msgid "Post author"
+msgstr "Συντάκτης άρθρου"
+
+#: inc/functions.php:402
+msgid "(Edit)"
+msgstr "(Διόρθωση)"
+
+#: inc/functions.php:402
+msgid "Pingback:"
+msgstr "Πίνγκμπακ:"
+
+#: inc/functions.php:376
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Επόμενα άρθρα <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:372
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Προηγούμενα άρθρα"
+
+#: inc/functions.php:367 navigation.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:366 navigation.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:362
+msgid "Post navigation"
+msgstr "Πλοήγηση άρθρων"
+
+#: functions.php:161
+msgid "Theme Options"
+msgstr "Επιλογές θέματος"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Χωρίς πλευρική στήλη, περιεχόμενο με  κεντρική στοίχηση"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Μέγιστο πλάτος χωρίς πλευρική στήλη"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Προεπιλεγμένη διάταξη"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Επέλεξε εμφάνιση"
+
+#: header.php:93
+msgid "Menu"
+msgstr "Μενού"
+
+#: functions.php:76
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: content-single.php:22
+msgid "Tagged on: "
+msgstr "Ετικέτες:"
+
+#: inc/customizer.php:612 inc/functions.php:556 inc/header-functions.php:42
+#: inc/widgets/widgets.php:258 inc/widgets/widgets.php:355
+msgid "Read more"
+msgstr "Περισσότερα"
+
+#: content-page.php:26 inc/functions.php:553
+msgid "Edit"
+msgstr "Αλλαγή"
+
+#: inc/functions.php:550
+msgid "Comments Off"
+msgstr "Σχόλια κλειστά"
+
+#: inc/functions.php:550
+msgid "% Comments"
+msgstr "Χωρίς σχόλια"
+
+#: inc/functions.php:550
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: inc/functions.php:550
+msgid "No Comments"
+msgstr "Χωρίς σχόλια"
+
+#: content-blog-full-content.php:23 content-page.php:17 content-single.php:29
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια →"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "← Παλαιότερα σχόλια"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ένα σχόλιο στο <i>%2$s</i>"
+msgstr[1] "%1$s σχόλια στο <i>%2$s</i>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Όπως φαίνεται δεν βρέθηκε κάτι εδώ. Δοκιμάστε την αναζήτηση παρακάτω."
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."

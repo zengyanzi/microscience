@@ -1,0 +1,219 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-08 08:48:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "WPForms"
+msgstr "WPForms"
+
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 0.11.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 0.11.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#. translators: %1$s - WP Mail SMTP plugin name; %2$s - opening a link tag;
+#. %3$s - closing a link tag.
+#: wp_mail_smtp.php:785
+msgid "Your site is running an outdated version of PHP that is no longer supported and may cause issues with %1$s. %2$sRead more%3$s for additional information."
+msgstr "Din webbplats kör en föråldrad version av PHP som inte längre stöds och kan orsaka problem med %1$s. %2$sLäs mer%3$s för ytterligare information."
+
+#: wp_mail_smtp.php:573
+msgid "To"
+msgstr "Till"
+
+#. translators: %s - Pepipost registration URL.
+#: wp_mail_smtp.php:493
+msgid "You need to signup on %s to get the SMTP username/password."
+msgstr "Du måste registrera dig på %s för att få SMTP användarnamn / lösenord."
+
+#: wp_mail_smtp.php:487
+msgid "Pepipost SMTP Options"
+msgstr "Pepipost SMTP-alternativ"
+
+#: wp_mail_smtp.php:473
+msgid "This is in plain text because it must not be stored encrypted."
+msgstr "Detta är i oformaterad text eftersom den inte får lagras krypterad."
+
+#: wp_mail_smtp.php:429
+msgid "TLS is not the same as STARTTLS. For most servers SSL is the recommended option."
+msgstr "TLS är inte detsamma som STARTTLS. För de flesta servrar är SSL det rekommenderade alternativet."
+
+#: wp_mail_smtp.php:426 wp_mail_smtp.php:548
+msgid "Use TLS encryption."
+msgstr "Använd TLS-kryptering."
+
+#: wp_mail_smtp.php:372
+msgid "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+msgstr "”Svara till” anger vart information om ej levererade meddelanden, eller studsade meddelanden, ska skickas."
+
+#. translators: %1$s - link start; %2$s - link end.
+#: wp_mail_smtp.php:343
+msgid "Looking for high inbox delivery? Try Pepipost with easy setup and free emails. Learn more %1$shere%2$s."
+msgstr "Vill du att många av breven ska nå mottagarnas inkorgar? Prova Pepipost med enkel konfiguration och gratis e-postmeddelanden. %1$sHär hittar du mer informatoin%2$s."
+
+#: wp_mail_smtp.php:337
+msgid "Use Pepipost SMTP to send emails."
+msgstr "Använd Pepipost SMTP för att skicka e-post."
+
+#: wp_mail_smtp.php:274 wp_mail_smtp.php:619
+msgid "WP Mail SMTP Settings"
+msgstr "WP Mail SMTP-inställningar"
+
+#. Description of the plugin/theme
+msgid "Reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page to manage the settings."
+msgstr "Konfigurerar om funktionen wp_mail() till att använda SMTP istället för mail() och skapar en alternativsida för att hantera inställningarna."
+
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 0.11.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp_mail_smtp.php:619
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: wp_mail_smtp.php:725
+msgid "Settings"
+msgstr "Inställningar"
+
+#: wp_mail_smtp.php:577
+msgid "Type an email address here and then click Send Test to generate a test email."
+msgstr "Ange en e-postadress här och klicka sedan på ”Skicka test” för att skicka ett testmeddelande."
+
+#: wp_mail_smtp.php:565
+msgid "Send a Test Email"
+msgstr "Skicka ett testmeddelande"
+
+#: wp_mail_smtp.php:380 wp_mail_smtp.php:480 wp_mail_smtp.php:556
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: wp_mail_smtp.php:467 wp_mail_smtp.php:510
+msgid "Password"
+msgstr "Lösenord"
+
+#: wp_mail_smtp.php:459 wp_mail_smtp.php:502
+msgid "Username"
+msgstr "Användarnamn"
+
+#: wp_mail_smtp.php:452
+msgid "If this is set to no, the values below are ignored."
+msgstr "Om detta är satt till nej så ignoreras värdena nedan."
+
+#: wp_mail_smtp.php:448
+msgid "Yes: Use SMTP authentication."
+msgstr "Ja: Använd SMTP-autentisering."
+
+#: wp_mail_smtp.php:443
+msgid "No: Do not use SMTP authentication."
+msgstr "Nej: Använd inte SMTP-autentisering."
+
+#: wp_mail_smtp.php:434 wp_mail_smtp.php:438
+msgid "Authentication"
+msgstr "Autentisering"
+
+#: wp_mail_smtp.php:421 wp_mail_smtp.php:543
+msgid "Use SSL encryption."
+msgstr "Använd SSL-kryptering."
+
+#: wp_mail_smtp.php:416 wp_mail_smtp.php:538
+msgid "No encryption."
+msgstr "Ingen kryptering."
+
+#: wp_mail_smtp.php:407 wp_mail_smtp.php:411 wp_mail_smtp.php:526
+#: wp_mail_smtp.php:532
+msgid "Encryption"
+msgstr "Kryptering"
+
+#: wp_mail_smtp.php:400 wp_mail_smtp.php:518
+msgid "SMTP Port"
+msgstr "SMTP-port"
+
+#: wp_mail_smtp.php:392
+msgid "SMTP Host"
+msgstr "SMTP-värd"
+
+#: wp_mail_smtp.php:387
+msgid "These options only apply if you have chosen to send mail by SMTP above."
+msgstr "Dessa alternativ tillämpas bara om du har valt att skicka e-post genom SMTP ovan."
+
+#: wp_mail_smtp.php:385
+msgid "SMTP Options"
+msgstr "SMTP-alternativ"
+
+#: wp_mail_smtp.php:368
+msgid "Set the return-path to match the From Email"
+msgstr "Sätt e-postadressen ”Svara till” till samma som adressen ”Från”"
+
+#: wp_mail_smtp.php:358 wp_mail_smtp.php:363
+msgid "Return Path"
+msgstr "Svara till"
+
+#: wp_mail_smtp.php:331
+msgid "Use the PHP mail() function to send emails."
+msgstr "Använd funktionen PHP mail() för att skicka e-post."
+
+#: wp_mail_smtp.php:327
+msgid "Send all WordPress emails via SMTP."
+msgstr "Skicka all e-post för WordPress via SMTP."
+
+#: wp_mail_smtp.php:317 wp_mail_smtp.php:322
+msgid "Mailer"
+msgstr "Skickare"
+
+#: wp_mail_smtp.php:308
+msgid "You can specify the name that emails should be sent from. If you leave this blank, the emails will be sent from WordPress."
+msgstr "Du kan ange namnet som e-post ska skickas från. Om du lämnar detta blankt kommer all e-post skickas från WordPress."
+
+#: wp_mail_smtp.php:302
+msgid "From Name"
+msgstr "Från namn"
+
+#: wp_mail_smtp.php:293
+msgid "<strong>Please Note:</strong> You appear to be using a version of WordPress prior to 2.3. Please ignore the From Name field and instead enter Name&lt;email@domain.com&gt; in this field."
+msgstr "<strong>Observera:</strong> Du verkar använda en version av WordPress före 2.3. Vänligen ignorera fältet ”Från namn” och ange istället Name&lt;email@domain.com&gt; i detta fält."
+
+#: wp_mail_smtp.php:290
+msgid "You can specify the email address that emails should be sent from. If you leave this blank, the default email will be used."
+msgstr "Du kan ange den e-postadress som all e-post ska skickas från. Om du lämnar detta blankt kommer standardvärdet för e-post att användas."
+
+#: wp_mail_smtp.php:283
+msgid "From Email"
+msgstr "Från e-post"
+
+#: wp_mail_smtp.php:262
+msgid "The SMTP debugging output is shown below:"
+msgstr "SMTP-felsökningsloggen visas nedan:"
+
+#: wp_mail_smtp.php:259
+msgid "The full debugging output is shown below:"
+msgstr "Hela felsökningsloggen visas nedan:"
+
+#: wp_mail_smtp.php:256
+msgid "The result was:"
+msgstr "Resultatet var:"
+
+#: wp_mail_smtp.php:255
+msgid "Test Message Sent"
+msgstr "Testmeddelande skickat"
+
+#: wp_mail_smtp.php:239
+msgid "This is a test email generated by the WP Mail SMTP WordPress plugin."
+msgstr "Detta är ett testmeddelande genererat av tillägget ”WP Mail SMTP WordPress”."
+
+#. translators: %s - email address where test mail will be sent to.
+#: wp_mail_smtp.php:238
+msgid "Test mail to %s"
+msgstr "Testmeddelande till %s"
+
+#: wp_mail_smtp.php:229 wp_mail_smtp.php:583
+msgid "Send Test"
+msgstr "Skicka testmeddelande"

@@ -1,0 +1,3270 @@
+# Translation of Plugins - Elementor Page Builder - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Elementor Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-28 11:27:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Elementor Page Builder - Stable (latest release)\n"
+
+#: modules/history/module.php:23
+msgid "Moved"
+msgstr "Flyttad"
+
+#: modules/history/module.php:20
+msgid "Added"
+msgstr "Tillagt"
+
+#: includes/editor.php:397
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/editor-templates/panel.php:73
+#: includes/editor-templates/panel.php:74 modules/history/module.php:18
+msgid "History"
+msgstr "Historik"
+
+#: modules/history/module.php:22
+msgid "Edited"
+msgstr "Redigerad"
+
+#: modules/history/module.php:25
+msgid "Editing Started"
+msgstr "Redigering startad"
+
+#: includes/widgets/video.php:389
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "Skugga"
+
+#: includes/controls/groups/text-shadow.php:20
+#: includes/controls/groups/text-shadow.php:27
+msgctxt "Text Shadow Control"
+msgid "Text Shadow"
+msgstr "Textskugga"
+
+#: core/settings/general/model.php:94
+msgid "Enable In Editor"
+msgstr "Aktivera i redigeraren"
+
+#: core/settings/general/model.php:23
+msgid "Global Settings"
+msgstr "Globala inställningar"
+
+#: includes/settings/tools.php:189
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "OBS: Vi rekommenderar inte att uppdatera till en betaversion på en produktionssite."
+
+#: includes/settings/tools.php:181
+msgid "Beta Tester"
+msgstr "Beta-testare"
+
+#: includes/settings/tools.php:172
+msgid "Become a Beta Tester"
+msgstr "Bli en betatestare"
+
+#: includes/settings/tools.php:166
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Varning: Säkerhetskopiera databasen innan en återgång."
+
+#: includes/settings/tools.php:165
+msgid "Reinstall v%s"
+msgstr "Installera om v%s"
+
+#: includes/settings/tools.php:155
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Upplever ett problem med Elementor version %s? Återställ till en tidigare version innan problemet dök upp."
+
+#: includes/settings/tools.php:150
+msgid "Version Control"
+msgstr "Versionskontroll"
+
+#: includes/settings/settings.php:205
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: core/settings/general/model.php:59 includes/settings/settings.php:169
+msgid "Sets the default space between widgets (Default: 20)"
+msgstr "Ställer in standardutrymmet mellan widgetar (Standard: 20)"
+
+#: includes/settings/settings.php:163
+msgid "Space Between Widgets"
+msgstr "Utrymmet mellan widgetar"
+
+#: includes/admin.php:46 includes/rollback.php:75
+#: includes/settings/tools.php:80 includes/settings/tools.php:153
+msgid "Rollback to Previous Version"
+msgstr "Återgå till föregående version"
+
+#: includes/elements/section.php:27
+msgid "Save %s"
+msgstr "Spara %s"
+
+#: includes/elements/column.php:604 includes/elements/section.php:990
+#: includes/widgets/common.php:97
+msgid "Animation Delay"
+msgstr "Animationsfördröjning"
+
+#: includes/elements/column.php:561 includes/elements/section.php:947
+#: includes/widgets/common.php:54
+msgid "Z-Index"
+msgstr "Z-Index"
+
+#: includes/elements/column.php:21 includes/elements/section.php:23
+msgid "Add %s"
+msgstr "Lägg till %s"
+
+#: includes/editor.php:425
+msgid "Attention! Importing may override previous settings."
+msgstr "OBS! Import kan skriva över föregående inställningar."
+
+#: includes/editor.php:424
+msgid "Do you want to also import the page settings of the template?"
+msgstr "Vill du också importera sidinställningarna i mallen?"
+
+#: includes/editor.php:423
+msgid "Import Page Settings"
+msgstr "Importera sidinställningar"
+
+#: includes/controls/url.php:67
+msgid "Add nofollow"
+msgstr "Lägg till nofollow"
+
+#: includes/controls/url.php:63
+msgid "Open in new window"
+msgstr "Öppna i nytt fönster"
+
+#: includes/controls/url.php:56
+msgid "Link Options"
+msgstr "Länkalternativ"
+
+#: includes/controls/groups/box-shadow.php:42
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Kontur"
+
+#: includes/controls/groups/box-shadow.php:39
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "Position"
+
+#: includes/base/widget-base.php:154 includes/elements/column.php:708
+#: includes/elements/section.php:1115
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: includes/base/widget-base.php:25 includes/elements/column.php:25
+#: includes/elements/section.php:31
+msgid "Remove %s"
+msgstr "Ta bort %s"
+
+#: includes/base/widget-base.php:21 includes/elements/column.php:17
+#: includes/elements/section.php:19
+msgid "Duplicate %s"
+msgstr "Duplicera %s"
+
+#: includes/base/widget-base.php:17 includes/base/widget-base.php:154
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/admin.php:45
+msgid "Are you sure you want to reinstall previous version?"
+msgstr "Är du säker på att du vill installera om den tidigare versionen?"
+
+#. translators: %s: WP version
+#: elementor.php:105
+msgid "Elementor requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT ACTIVE."
+msgstr "Elementor kräver WordPress version %s+. Eftersom du använder en tidigare version, är tillägget för närvarande INTE AKTIV."
+
+#: includes/settings/settings.php:223
+msgid "Use external CSS files for all generated stylesheets. Choose this setting for better performance (recommended)."
+msgstr "Använda externa CSS-filer för alla genererade stilmallar. Välj denna inställning för bättre prestanda (rekommenderas)."
+
+#: includes/settings/settings.php:219
+msgid "External File"
+msgstr "Extern fil"
+
+#: includes/settings/settings.php:214
+msgid "CSS Print Method"
+msgstr "CSS utskriftsmetod"
+
+#: includes/settings/settings.php:238
+msgid "For troubleshooting server configuration conflicts."
+msgstr "För felsökning av konfigurationskonflikter på servern."
+
+#: includes/settings/settings.php:236 includes/settings/tools.php:187
+msgid "Enable"
+msgstr "Aktivera"
+
+#: includes/settings/settings.php:235 includes/settings/tools.php:186
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: core/settings/page/model.php:134
+msgid "Status"
+msgstr "Status"
+
+#: includes/widgets/spacer.php:37 includes/widgets/text-editor.php:203
+msgid "Space"
+msgstr "Mellanrum"
+
+#: includes/widgets/text-editor.php:41 includes/widgets/text-editor.php:118
+msgid "Drop Cap"
+msgstr "Begynnelsebokstav"
+
+#: core/settings/general/model.php:76 includes/settings/settings.php:187
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "Sidtiteln kan döljas i Elementor. Detta fungerar för teman som har selektorn \"h1.entry-title\". Om selektorn till ditt tema är annorlunda, skriv det här ovan."
+
+#: core/settings/general/model.php:73 includes/settings/settings.php:182
+msgid "Page Title Selector"
+msgstr "Sidtitelväljare"
+
+#: includes/settings/controls.php:91
+msgid "Select"
+msgstr "Välj"
+
+#: core/settings/page/model.php:147
+msgid "Page Style"
+msgstr "Sidutseende"
+
+#: core/settings/page/model.php:115 modules/history/module.php:19
+msgid "Template"
+msgstr "Mall"
+
+#. translators: %s: Setting Page link
+#: core/settings/page/model.php:95
+msgid "Not working? You can set a different selector for the title in the <a href=\"%s\" target=\"_blank\">Settings page</a>."
+msgstr "Fungerar det inte? Du kan använda en annan selektor för titeln i <a href=\"%s\" target=\"_blank\">sidoinställningarna</a>."
+
+#: core/settings/page/model.php:90
+msgid "Hide Title"
+msgstr "Dölj rubrik"
+
+#: core/settings/page/manager.php:41
+msgid "Canvas"
+msgstr "Canvas"
+
+#: includes/maintenance-mode.php:141
+msgid "Maintenance Mode ON"
+msgstr "Underhållsläge PÅ"
+
+#: includes/maintenance-mode.php:122
+msgid "Choose Template"
+msgstr "Välj mall"
+
+#: includes/maintenance-mode.php:69
+msgid "Select one or go ahead and <a target=\"_blank\" href=\"%s\">create one</a> now."
+msgstr "Välj en eller gå vidare och <a target=\"_blank\" href=\"%s\">skapa en</a> nu."
+
+#: includes/maintenance-mode.php:67
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "För att aktivera underhållsläge måste du ange en mall för sidan till underhållsläget."
+
+#: includes/maintenance-mode.php:64 includes/maintenance-mode.php:148
+msgid "Edit Template"
+msgstr "Redigera mall"
+
+#: includes/maintenance-mode.php:114
+msgid "Roles"
+msgstr "Roller"
+
+#: includes/maintenance-mode.php:108
+msgid "Logged In"
+msgstr "Inloggad"
+
+#: includes/maintenance-mode.php:102
+msgid "Who Can Access"
+msgstr "Vem kan komma åt"
+
+#: includes/maintenance-mode.php:97
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "Kommer Snart returnerar HTTP 200-kod, vilket innebär att webbplatsen är redo att bli indexerad."
+
+#: includes/maintenance-mode.php:94
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "Underhållsläge returnerar HTTP 503-kod, så sökmotorer kan komma tillbaka en kort stund senare. Det rekommenderas att inte använda det här läget i mer än ett par dagar."
+
+#: includes/maintenance-mode.php:91
+msgid "Choose between Coming Soon mode (returning HTTP200) or Maintenance Mode (returning HTTP503)."
+msgstr "Välj mellan Kommer Snart läge (returnerar HTTP200) eller Underhållsläge (returnerar HTTP503)."
+
+#: includes/maintenance-mode.php:88
+msgid "Maintenance"
+msgstr "Underhåll"
+
+#: includes/maintenance-mode.php:87
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: includes/maintenance-mode.php:86
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: includes/maintenance-mode.php:82
+msgid "Choose Mode"
+msgstr "Välj läge"
+
+#: includes/maintenance-mode.php:78
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "Sätt hela din webbplats på UNDERHÅLLSLÄGE, vilket innebär att webbplatsen är tillfälligt offline för underhåll, eller sätt den på KOMMER SNART-läge, vilket innebär att webbplatsen är offline tills den är klar att lanseras."
+
+#: includes/maintenance-mode.php:74
+msgid "Maintenance Mode"
+msgstr "Underhållsläge"
+
+#: includes/elements/section.php:790
+msgid "Bring to Front"
+msgstr "Flytta till framsidan"
+
+#: core/settings/general/manager.php:130 core/settings/general/model.php:84
+#: includes/widgets/image-carousel.php:143
+#: includes/widgets/image-gallery.php:84 includes/widgets/image.php:117
+#: includes/widgets/video.php:297 includes/widgets/video.php:403
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/widgets/icon-list.php:103
+msgid "Space Between"
+msgstr "Avstånd mellan"
+
+#: includes/widgets/icon-list.php:95
+msgid "List"
+msgstr "Lista"
+
+#: includes/shapes.php:123
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Bok"
+
+#: includes/shapes.php:119
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Dela"
+
+#: includes/shapes.php:115
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Pil"
+
+#: includes/shapes.php:111
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Vågmönster"
+
+#: includes/shapes.php:107
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Vågborste"
+
+#: includes/shapes.php:102
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Vågor"
+
+#: includes/shapes.php:97
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Båge asymmetrisk"
+
+#: includes/shapes.php:93
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Båge"
+
+#: includes/shapes.php:81
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Luta"
+
+#: includes/shapes.php:76
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Triangel asymmetrisk"
+
+#: includes/shapes.php:72
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Triangel"
+
+#: includes/shapes.php:67
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Pyramider"
+
+#: includes/shapes.php:64
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Sicksack"
+
+#: includes/shapes.php:58
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Moln"
+
+#: includes/shapes.php:52
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Droppar"
+
+#: includes/shapes.php:48
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Berg"
+
+#: includes/elements/section.php:777
+msgid "Invert"
+msgstr "Invertera"
+
+#: includes/elements/section.php:763
+msgid "Flip"
+msgstr "Spegelvänd"
+
+#: includes/elements/column.php:442 includes/elements/section.php:822
+msgid "Note: The following colors won't work if Global Colors are enabled."
+msgstr "Observera: Följande färger kommer inte att fungera om globala färger är aktiverade."
+
+#: includes/widgets/tabs.php:107
+msgid "Navigation Width"
+msgstr "Navigationsbredd"
+
+#: includes/elements/column.php:166 includes/elements/column.php:259
+#: includes/elements/column.php:368 includes/elements/section.php:394
+#: includes/elements/section.php:487 includes/elements/section.php:595
+#: includes/widgets/button.php:233 includes/widgets/common.php:165
+#: includes/widgets/common.php:251
+msgid "Hover"
+msgstr "Hovra"
+
+#: includes/elements/column.php:620 includes/elements/section.php:1006
+#: includes/widgets/common.php:113
+msgid "CSS ID"
+msgstr "CSS-ID"
+
+#: includes/controls/groups/background.php:123
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "Vinkel"
+
+#: includes/controls/groups/background.php:112
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "Radiell"
+
+#: includes/controls/groups/background.php:111
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "Linjär"
+
+#: includes/controls/groups/background.php:108
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Typ"
+
+#: includes/controls/groups/background.php:82
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "Sekundär färg"
+
+#: includes/controls/groups/background.php:67
+#: includes/controls/groups/background.php:93
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Plats"
+
+#: includes/controls/groups/background.php:33
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr "Gradient"
+
+#: includes/settings/settings.php:116
+msgid "Checking this box will disable Elementor's Global Fonts, and make Elementor inherit the fonts from your theme."
+msgstr "Om du markerar den här rutan inaktiveras Elementors globala typsnitt, och gör att Elementor ärver typsnitten från ditt tema."
+
+#: includes/settings/settings.php:112
+msgid "Disable Global Fonts"
+msgstr "Inaktivera globala teckensnitt"
+
+#: includes/settings/settings.php:108
+msgid "Checking this box will disable Elementor's Global Colors, and make Elementor inherit the colors from your theme."
+msgstr "Om du markerar den här rutan inaktiveras Elementors globala färger, och gör så att Elementor ärver färgerna från ditt tema."
+
+#: includes/settings/settings.php:104
+msgid "Disable Global Colors"
+msgstr "Inaktivera globala färger"
+
+#: includes/admin.php:210
+msgid "Video Tutorials"
+msgstr "Videoguider"
+
+#: includes/admin.php:210
+msgid "View Elementor Video Tutorials"
+msgstr "Se Videoguider om Elementor"
+
+#: includes/admin.php:209
+msgid "Docs & FAQs"
+msgstr "Dokumentation & vanliga frågor"
+
+#: includes/admin.php:209
+msgid "View Elementor Documentation"
+msgstr "Läs dokumentation om Elementor"
+
+#: includes/settings/tools.php:59
+msgid "%d Rows Affected"
+msgstr "%d rader påverkas"
+
+#: includes/settings/tools.php:43
+msgid "The `from` and `to` URL's must be different"
+msgstr "Webbadresserna ”från” och ”till” måste vara olika"
+
+#: includes/settings/tools.php:39
+msgid "The `from` and `to` URL's must be a valid URL"
+msgstr "Webbadresserna ”från” och ”till” måste vara giltiga webbadresser"
+
+#: includes/settings/tools.php:142
+msgid "Enter your old and new URLs for your WordPress installation, to update all Elementor data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Ange dina gamla och nya webbadresser till din WordPress-installation, för att uppdatera alla Elementor-data (Relevant för domänöverföringar eller flytt till \"HTTPS\")."
+
+#: includes/settings/tools.php:138
+msgid "Update Site Address (URL)"
+msgstr "Uppdatera webbplatsadress (URL)"
+
+#: includes/settings/tools.php:131
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Viktigt:</strong> Det rekommenderas starkt att du <a target=\"_blank\" href=\"%s\">säkerhetskopierar din databas</a> innan du använder Byt URL."
+
+#: includes/settings/tools.php:127 includes/settings/tools.php:141
+msgid "Replace URL"
+msgstr "Ersätt URL"
+
+#: includes/settings/system-info/classes/wordpress.php:45
+msgctxt "System Info"
+msgid "We recommend setting memory to at least %1$s. For more information, read about <a href=\"%2$s\">how to Increase memory allocated to PHP</a>."
+msgstr "Vi rekommenderar att du ställer in minnet till minst %1$s. För mer information läs om <a href=\"%2$s\">hur du ökar minnet som är allokerat till PHP</a>."
+
+#: modules/history/revisions-manager.php:132
+msgid "Cannot delete this Revision"
+msgstr "Kan inte ta bort denna version"
+
+#: modules/history/revisions-manager.php:53
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "j M kl. H:i"
+
+#: includes/editor.php:422
+msgid "Back to Editor"
+msgstr "Tillbaka till redigeraren"
+
+#: includes/editor.php:420
+msgid "Autosave"
+msgstr "Spara automatiskt"
+
+#: modules/history/revisions-manager.php:181
+msgid "Revision"
+msgstr "Version"
+
+#. translators: %s: WordPress Revision docs.
+#: modules/history/revisions-manager.php:180
+msgid "Learn more about <a targe=\"_blank\" href=\"%s\">WordPress revisions</a>"
+msgstr "Läs mer om <a targe=\"_blank\" href=\"%s\">WordPress versioner</a>"
+
+#: modules/history/revisions-manager.php:177
+msgid "Start designing your page and you'll be able to see the entire revision history here."
+msgstr "Börja designa din sida och du kommer att kunna se hela versionshistoriken här."
+
+#: modules/history/revisions-manager.php:176
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "Med versionshistorik kan du spara dina tidigare versioner av ditt arbete och återställa dem när som helst."
+
+#: modules/history/views/revisions-panel-template.php:36
+msgid "By"
+msgstr "Av"
+
+#: modules/history/views/revisions-panel-template.php:27
+msgid "No Revisions Saved Yet"
+msgstr "Inga versioner sparade än"
+
+#: includes/db.php:64
+msgid "Auto Save"
+msgstr "Autospara"
+
+#: includes/widgets/counter.php:90
+msgid "Thousand Separator"
+msgstr "Tusentalsavgränsare"
+
+#: includes/controls/groups/background.php:187
+#: includes/controls/groups/background.php:212
+#: includes/controls/groups/background.php:230
+#: includes/controls/groups/background.php:250
+msgctxt "Background Control"
+msgid "Default"
+msgstr "Standard"
+
+#: includes/managers/controls.php:472
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "Med anpassad CSS kan du lägga till CSS-kod till vilken widget som helst och se den återges live direkt i redigeraren."
+
+#: includes/managers/controls.php:457
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: includes/editor-templates/panel-elements.php:53
+#: includes/managers/controls.php:475
+msgid "This feature is only available on Elementor Pro."
+msgstr "Den här funktionen är endast tillgänglig med Elementor Pro."
+
+#: includes/editor-templates/panel-elements.php:52
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "Med den här funktionen kan du spara en widget som global, och sedan lägga till den på flera olika platser. Alla platser kommer att redigeras från ett enda ställe."
+
+#: includes/editor-templates/panel-elements.php:51
+msgid "Meet Our Global Widget"
+msgstr "Se vår globala widget."
+
+#: includes/admin.php:201 includes/editor-templates/panel-elements.php:23
+#: includes/editor-templates/panel-elements.php:54
+#: includes/editor-templates/templates.php:84
+#: includes/managers/controls.php:478 includes/settings/settings.php:37
+msgid "Go Pro"
+msgstr "Skaffa Pro"
+
+#: includes/editor-templates/panel-elements.php:22
+msgid "Get more with Elementor Pro"
+msgstr "Gör mer med Elementor Pro"
+
+#: includes/editor-templates/panel-elements.php:11
+msgid "Global"
+msgstr "Global"
+
+#: includes/controls/groups/typography.php:32
+#: includes/widgets/icon-list.php:152 includes/widgets/text-editor.php:43
+#: includes/widgets/video.php:300
+msgid "Off"
+msgstr "Av"
+
+#: includes/controls/groups/typography.php:31
+#: includes/widgets/icon-list.php:153 includes/widgets/text-editor.php:44
+#: includes/widgets/video.php:301
+msgid "On"
+msgstr "På"
+
+#: includes/widgets/button.php:28
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: includes/widgets/button.php:24
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: includes/settings/tools.php:111
+msgid "Styles set in Elementor are saved in CSS files in the uploads folder. Recreate those files, according to the most recent settings."
+msgstr "Stilpaketen i Elementor är sparade i CSS-filer i uppladdningskatalogen. Återskapa dessa filer enligt de senaste inställningarna."
+
+#: includes/settings/tools.php:110
+msgid "Regenerate Files"
+msgstr "Återskapa filer"
+
+#: includes/settings/tools.php:107
+msgid "Regenerate CSS"
+msgstr "Återskapa CSS"
+
+#: includes/settings/settings.php:122
+msgid "Improve Elementor"
+msgstr "Förbättra Elementor"
+
+#: includes/managers/elements.php:172
+msgid "General Elements"
+msgstr "Generella element"
+
+#: includes/frontend.php:442
+msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
+msgstr "Ogiltig data: Mall-ID kan inte vara samma som den nuvarande redigerade mallen. Vänligen välj en annan."
+
+#: includes/base/widget-base.php:96 includes/base/widget-base.php:105
+msgid "Skin"
+msgstr "Skal"
+
+#: includes/schemes/color-picker.php:20
+msgid "Choose which colors appear in the editor's color picker. This makes accessing the colors you chose for the site much easier."
+msgstr "Välj vilka färger som finns i redigerarens färgväljare. Detta gör det mycket lättare att få tillgång till de färger du valde för webbsidan."
+
+#: includes/editor.php:419
+msgid "Descending order"
+msgstr "Fallande ordning"
+
+#: includes/editor.php:418
+msgid "Ascending order"
+msgstr "Stigande ordning"
+
+#: includes/editor.php:417
+msgid "Attention! We are going to DELETE ALL CONTENT from this page. Are you sure you want to do that?"
+msgstr "Observera! Vi kommer att TA BORT ALLT INNEHÅLL från den här sidan. Är du säker på att du vill göra det?"
+
+#: includes/editor.php:416
+msgid "Delete All Content"
+msgstr "Ta bort allt Innehåll"
+
+#: includes/editor-templates/panel.php:132
+msgid "{0} are disabled"
+msgstr "{0} är inaktiverad"
+
+#: includes/editor-templates/panel.php:121
+msgid "Update changes to page"
+msgstr "Uppdatera ändringarna till sida"
+
+#: includes/editor.php:415 includes/schemes/color-picker.php:132
+msgid "Color Picker"
+msgstr "Färgväljare"
+
+#: includes/tracker.php:148
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: core/settings/general/model.php:68 includes/settings/settings.php:178
+msgid "Enter parent element selector to which stretched sections will fit to (e.g. #primary / .wrapper / main etc). Leave blank to fit to page width."
+msgstr "Ange namnet på objekted som stretchade sektioner ska anpassas till (t.ex. #primary / .wrapper / main). Lämna fältet blankt för att endast anpassa till sidans bredd."
+
+#: core/settings/general/model.php:65 includes/settings/settings.php:173
+msgid "Stretched Section Fit To"
+msgstr "Anpassa sektionsbredd för att passa"
+
+#: core/settings/general/model.php:49 includes/settings/settings.php:159
+msgid "Sets the default width of the content area (Default: 1140)"
+msgstr "Ange standardbredd för innehåll (standardvärde: 1140)"
+
+#: includes/elements/section.php:144
+msgid "Stretch the section to the full width of the page using JS."
+msgstr "Bredda sektion till fullbredd på sidan med javascript."
+
+#: includes/elements/section.php:137
+msgid "Stretch Section"
+msgstr "Bredda sektion"
+
+#: includes/controls/groups/background.php:279
+msgid "This cover image will replace the background video on mobile or tablet."
+msgstr "Denna bild kommer ersätta bakgrundsvideon på mobiler och plattor."
+
+#: includes/elements/section.php:144 includes/settings/settings.php:130
+#: includes/tracker.php:147
+msgid "Learn more."
+msgstr "Läs mer."
+
+#: includes/elements/section.php:1045
+msgid "Reverse column order - When on mobile, the column order is reversed, so the last column appears on top and vice versa."
+msgstr "Ändra ordning på kolumner: i mobilen är kolumnerna omvända, så att den sista kolumnen visas högst upp och vice versa."
+
+#: includes/elements/section.php:1040
+msgid "Reverse Columns"
+msgstr "Omvända kolumner"
+
+#: includes/elements/column.php:653
+msgid "Mobile Width"
+msgstr "Mobil bredd"
+
+#: includes/editor-templates/panel.php:68
+msgid "Preview for 360px"
+msgstr "Förhandsgranska i 360px"
+
+#: includes/editor-templates/panel.php:67
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/editor-templates/panel.php:63
+msgid "Preview for 768px"
+msgstr "Förhandsgranska i 768px"
+
+#: includes/editor-templates/panel.php:58
+msgid "Default Preview"
+msgstr "Förhandsgranskning för standardläge"
+
+#: includes/controls/dimensions.php:90
+msgid "Link values together"
+msgstr "Länka samman värden"
+
+#: includes/widgets/shortcode.php:41
+msgid "Insert your shortcode here"
+msgstr "Infoga kortkod här"
+
+#: includes/widgets/shortcode.php:15 includes/widgets/shortcode.php:34
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: includes/template-library/sources/local.php:113
+#: includes/template-library/sources/local.php:114
+msgid "My Library"
+msgstr "Mitt bibliotek"
+
+#: includes/template-library/sources/remote.php:18
+msgid "Remote"
+msgstr "Fjärr"
+
+#: includes/template-library/sources/local.php:419
+msgid "Import Now"
+msgstr "Importera nu"
+
+#: includes/template-library/sources/local.php:412
+msgid "Import Templates"
+msgstr "Importera mallar"
+
+#: includes/template-library/sources/local.php:397
+msgid "Export Template"
+msgstr "Exportera mall"
+
+#: includes/template-library/sources/local.php:169
+msgid "(no title)"
+msgstr "(utan rubrik)"
+
+#: includes/template-library/sources/local.php:99
+msgctxt "Template Library"
+msgid "Type"
+msgstr "Typ"
+
+#: includes/template-library/sources/local.php:68
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "Inga mallar i papperskorgen"
+
+#: includes/template-library/sources/local.php:67
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "Inga mallar hittades"
+
+#: includes/template-library/sources/local.php:66
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "Sök mallar"
+
+#: includes/template-library/sources/local.php:65
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "Visa mall"
+
+#: includes/template-library/sources/local.php:64
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "Alla mallar"
+
+#: includes/template-library/sources/local.php:63
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "Ny mall"
+
+#: includes/template-library/sources/local.php:62
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "Redigera mall"
+
+#: includes/template-library/sources/local.php:61
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "Lägg till ny mall"
+
+#: includes/template-library/sources/local.php:60
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "Lägg till"
+
+#: includes/template-library/sources/local.php:59
+msgctxt "Template Library"
+msgid "Template"
+msgstr "Mall"
+
+#: includes/template-library/sources/local.php:58
+#: includes/template-library/sources/local.php:70
+msgctxt "Template Library"
+msgid "My Library"
+msgstr "Mitt bibliotek"
+
+#: includes/template-library/sources/local.php:53
+msgid "Local"
+msgstr "Lokal"
+
+#: includes/settings/tools.php:119
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "Elementor-biblioteket uppdateras automatiskt dagligen. Du kan också uppdatera manuellt genom att klicka på synkroniseringsknappen."
+
+#: includes/settings/tools.php:115 includes/settings/tools.php:118
+msgid "Sync Library"
+msgstr "Synkronisera bibliotek"
+
+#: includes/settings/tools.php:15 includes/settings/tools.php:16
+#: includes/settings/tools.php:206
+msgid "Tools"
+msgstr "Verktyg"
+
+#: includes/editor.php:414
+msgid "Are you sure you want to delete this template?"
+msgstr "Är du säker på att du vill radera denna mall?"
+
+#: includes/editor.php:413
+msgid "Delete Template"
+msgstr "Radera mall"
+
+#: includes/editor.php:411
+msgid "Page"
+msgstr "Sida"
+
+#: includes/editor.php:409
+msgid "Save Your {0} to Library"
+msgstr "Spara {0} till bibliotek"
+
+#: includes/editor.php:408
+msgid "The following error(s) occurred while processing the request:"
+msgstr "Följande fel uppstod när din begäran bearbetades:"
+
+#: includes/editor.php:407 includes/settings/tools.php:56
+msgid "An error occurred"
+msgstr "Ett fel har inträffat"
+
+#: includes/editor-templates/templates.php:144
+msgid "This is where your templates should be. Design it. Save it. Reuse it."
+msgstr "Här kommer dina mallar visas. Designa, spara och använd dina mallar om och om igen."
+
+#: includes/editor-templates/templates.php:143
+msgid "Haven’t Saved Templates Yet?"
+msgstr "Har du inte sparat dina mallar ännu?"
+
+#: includes/editor-templates/templates.php:128
+#: includes/editor-templates/templates.php:147
+msgid "Read our tutorial on using Library templates."
+msgstr "Läs vår handbok om användning av mallbiblioteket."
+
+#: includes/editor-templates/templates.php:127
+#: includes/editor-templates/templates.php:146
+msgid "What is Library?"
+msgstr "Vad är biblioteket?"
+
+#: includes/editor-templates/templates.php:118
+msgid "Enter Template Name"
+msgstr "Ange mallnamn"
+
+#: includes/editor.php:410
+msgid "Your designs will be available for export and reuse on any page or website"
+msgstr "Din design kommer vara tillgänglig för export och återanvändning på vilken sida eller webbplats som helst."
+
+#: includes/editor-templates/templates.php:101
+#: includes/template-library/sources/local.php:487
+msgid "Export"
+msgstr "Exportera"
+
+#: includes/editor-templates/templates.php:58
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "Håll ögonen öppna! Mer grymma mallar kommer inom kort."
+
+#: includes/editor-templates/templates.php:39
+msgid "Back To library"
+msgstr "Tillbaka till biblioteket"
+
+#: includes/editor-templates/templates.php:77
+#: includes/editor-templates/templates.php:97
+msgid "Insert"
+msgstr "Infoga"
+
+#: includes/editor-templates/templates.php:29
+msgid "My Templates"
+msgstr "Mina mallar"
+
+#: includes/editor-templates/templates.php:28
+msgid "Predesigned Templates"
+msgstr "Färdiga mallar"
+
+#: includes/editor-templates/templates.php:20
+msgid "Library"
+msgstr "Bibliotek"
+
+#: includes/editor-templates/templates.php:12
+#: includes/editor-templates/templates.php:13
+msgid "Close"
+msgstr "Stäng"
+
+#: includes/editor-templates/panel.php:88
+#: includes/editor-templates/templates.php:24
+msgid "Save Template"
+msgstr "Spara mall"
+
+#: includes/editor-templates/panel.php:84
+msgid "Templates Library"
+msgstr "Mallbibliotek"
+
+#: includes/editor-templates/panel.php:77
+#: includes/editor-templates/panel.php:78
+msgid "Templates"
+msgstr "Mallar"
+
+#: includes/editor-templates/global.php:29
+msgid "Select your Structure"
+msgstr "Välj sturktur"
+
+#: includes/editor-templates/global.php:25
+msgid "Add Template"
+msgstr "Lägg till mall"
+
+#. translators: %s: codex child theme URL
+#: includes/settings/system-info/classes/theme.php:80
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr "Om du vill ändra ditt temas källkod, rekommenderar vi att du använder ett <a href=\"%s\">barntema</a>."
+
+#: includes/editor.php:406
+msgid "Learn More"
+msgstr "Läs mer"
+
+#: includes/editor.php:394
+msgid "Global Fonts"
+msgstr "Globalt typsnitt"
+
+#: includes/editor.php:393
+msgid "Global Colors"
+msgstr "Globala färger"
+
+#: includes/editor.php:387
+msgid "Delete {0}"
+msgstr "Ta bort {0}"
+
+#: includes/widgets/image.php:202
+msgid "Hover Animation"
+msgstr "Hovringsanimation"
+
+#: includes/widgets/button.php:276 includes/widgets/icon-box.php:343
+#: includes/widgets/icon.php:273 includes/widgets/image-box.php:218
+#: includes/widgets/social-icons.php:357
+msgid "Animation"
+msgstr "Animation"
+
+#: includes/controls/groups/background.php:253
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "Inneslut"
+
+#: includes/widgets/google-maps.php:82
+msgid "Prevent Scroll"
+msgstr "Förhindra skrollfunktion"
+
+#: includes/elements/column.php:592 includes/elements/section.php:978
+#: includes/widgets/common.php:85
+msgid "Fast"
+msgstr "Snabb"
+
+#: includes/elements/column.php:590 includes/elements/section.php:976
+#: includes/widgets/common.php:83
+msgid "Slow"
+msgstr "Långsam"
+
+#: includes/admin.php:326
+msgid "Submit & Deactivate"
+msgstr "Skicka och inaktivera"
+
+#: includes/schemes/typography.php:24
+msgid "Default Fonts"
+msgstr "Standardtypsnitt"
+
+#: includes/schemes/color.php:24
+msgid "Color Palettes"
+msgstr "Färgpaletter"
+
+#: includes/elements/column.php:574 includes/elements/section.php:960
+#: includes/widgets/common.php:67 includes/widgets/video.php:489
+msgid "Entrance Animation"
+msgstr "Ingångsanimation"
+
+#: includes/editor-templates/panel.php:133
+msgid "You can enable it from the <a href=\"%s\" target=\"_blank\">Elementor settings page</a>."
+msgstr "Du kan aktivera det från <a href=\"%s\" target=\"_blank\">Elementors inställningssida</a>."
+
+#: includes/controls/groups/box-shadow.php:20
+#: includes/controls/groups/box-shadow.php:28
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr "Lådskugga"
+
+#: includes/controls/box-shadow.php:55 includes/controls/text-shadow.php:48
+#: includes/widgets/tabs.php:42
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: includes/controls/box-shadow.php:50 includes/controls/text-shadow.php:43
+#: includes/widgets/tabs.php:41
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: includes/controls/box-shadow.php:45
+msgid "Spread"
+msgstr "Spridning"
+
+#: includes/controls/box-shadow.php:40 includes/controls/text-shadow.php:38
+msgid "Blur"
+msgstr "Suddighet"
+
+#: includes/admin.php:327
+msgid "Skip & Deactivate"
+msgstr "Hoppa över och inaktivera"
+
+#: includes/widgets/alert.php:55
+msgid "This is Alert"
+msgstr "Detta är en ruta"
+
+#: includes/widgets/testimonial.php:80
+msgid "Aside"
+msgstr "Notering"
+
+#: includes/widgets/testimonial.php:67 includes/widgets/testimonial.php:255
+msgid "Job"
+msgstr "Jobb"
+
+#: includes/widgets/testimonial.php:47
+msgid "Add Image"
+msgstr "Lägg till bild"
+
+#: includes/widgets/testimonial.php:15 includes/widgets/testimonial.php:30
+msgid "Testimonial"
+msgstr "Rekommendation"
+
+#: includes/widgets/social-icons.php:182
+msgid "Official Color"
+msgstr "Officiella färger"
+
+#: includes/widgets/social-icons.php:122
+msgid "Rounded"
+msgstr "Rundade"
+
+#: includes/widgets/social-icons.php:15 includes/widgets/social-icons.php:30
+#: includes/widgets/social-icons.php:37
+msgid "Social Icons"
+msgstr "Sociala ikoner"
+
+#: includes/widgets/progress.php:40
+msgid "My Skill"
+msgstr "Mina färdigheter"
+
+#: includes/widgets/audio.php:146
+msgid "Username"
+msgstr "Användarnamn"
+
+#: includes/widgets/audio.php:135
+msgid "Play Counts"
+msgstr "Antal spelningar"
+
+#: includes/widgets/audio.php:124
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/widgets/audio.php:113
+msgid "Share Button"
+msgstr "Delningsknapp"
+
+#: includes/widgets/audio.php:102
+msgid "Download Button"
+msgstr "Nedladdningsknapp"
+
+#: includes/widgets/audio.php:91
+msgid "Like Button"
+msgstr "Gilla-knapp"
+
+#: includes/widgets/audio.php:80
+msgid "Buy Button"
+msgstr "Köpknapp"
+
+#: includes/widgets/audio.php:50
+msgid "Visual Player"
+msgstr "Visuell spelare"
+
+#: includes/widgets/audio.php:16 includes/widgets/audio.php:31
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/elements/column.php:206 includes/elements/section.php:434
+msgid "Background Overlay"
+msgstr "Täck bakgrund"
+
+#: includes/elements/section.php:194
+msgid "Extended"
+msgstr "Utökad"
+
+#: includes/admin.php:369
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "Om du har tid, vänligen berätta varför du inaktiverar Elementor:"
+
+#: includes/admin.php:361
+msgid "Quick Feedback"
+msgstr "Snabb feedback"
+
+#: includes/admin.php:353
+msgid "Please share the reason"
+msgstr "Vänligen dela anledningen"
+
+#: includes/admin.php:352
+msgid "Other"
+msgstr "Annat"
+
+#: includes/admin.php:348
+msgid "It's a temporary deactivation"
+msgstr "Det är en tillfälliga inaktivering"
+
+#: includes/admin.php:344
+msgid "I couldn't get the plugin to work"
+msgstr "Jag kunde inte få tillägget att fungera"
+
+#: includes/admin.php:341
+msgid "Please share which plugin"
+msgstr "Vänligen dela vilket tillägg"
+
+#: includes/admin.php:340
+msgid "I found a better plugin"
+msgstr "Jag hittade ett bättre tillägg"
+
+#: includes/admin.php:336
+msgid "I no longer need the plugin"
+msgstr "Jag behöver inte längre det här tillägget"
+
+#: includes/admin.php:275 includes/admin.php:281
+msgid "Update Now"
+msgstr "Uppdatera nu"
+
+#. translators: %s: version number
+#: includes/admin.php:269
+msgid "View Elementor version %s details"
+msgstr "Visa detaljer för Elementor version %s"
+
+#. translators: 1: details URL, 2: accessibility text, 3: version number, 4:
+#. update URL, 5: accessibility text
+#: includes/admin.php:264
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "En ny version av Elementor Page Builder finns tillgänglig. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">Visa detaljer för version %3$s</a> eller <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">uppdatera nu</a>."
+
+#: includes/admin.php:259
+msgid "New in Elementor"
+msgstr "Nytt i Elementor"
+
+#: includes/widgets/image-carousel.php:122 includes/widgets/image.php:96
+msgid "Custom URL"
+msgstr "Anpassad URL"
+
+#: core/settings/page/model.php:156 includes/elements/column.php:139
+#: includes/elements/section.php:359 includes/widgets/accordion.php:148
+#: includes/widgets/accordion.php:207 includes/widgets/common.php:138
+#: includes/widgets/toggle.php:133 includes/widgets/toggle.php:192
+msgid "Background"
+msgstr "Bakgrund"
+
+#: includes/elements/section.php:196
+msgid "Wider"
+msgstr "Bredare"
+
+#: includes/settings/settings.php:73 includes/settings/tools.php:102
+msgid "General"
+msgstr "Allmän"
+
+#. translators: %s: link to plugin review
+#: includes/admin.php:295
+msgid "Enjoyed <strong>Elementor</strong>? Please leave us a %s rating. We really appreciate your support!"
+msgstr "Gillar du <strong>Elementor</strong>? Ge oss ett %s-betyg. Vi uppskattar ditt stöd!"
+
+#: includes/user.php:139
+msgid "Watch this quick tour that gives you a basic understanding of how to use Elementor."
+msgstr "Kolla på den korta guiden som ger dig grundläggande kunskap för att använda Elementor."
+
+#: includes/user.php:137
+msgid "Two Minute Tour Of Elementor"
+msgstr "Guide till Elementor på två minuter"
+
+#: includes/widgets/video.php:212
+msgid "Intro Byline"
+msgstr "Introduktionsbyline"
+
+#: includes/widgets/icon-box.php:201 includes/widgets/icon-box.php:414
+#: includes/widgets/image-box.php:289 includes/widgets/image-carousel.php:433
+#: includes/widgets/image-gallery.php:133 includes/widgets/social-icons.php:264
+msgid "Spacing"
+msgstr "Mellanrum"
+
+#: includes/widgets/image-carousel.php:409
+msgid "Dots Color"
+msgstr "Punktfärg"
+
+#: includes/widgets/image-carousel.php:389
+msgid "Dots Size"
+msgstr "Punkternas storlek"
+
+#: includes/widgets/image-carousel.php:373
+msgid "Dots Position"
+msgstr "Punkternas position"
+
+#: includes/widgets/image-carousel.php:347
+msgid "Arrows Color"
+msgstr "Pilarnas färg"
+
+#: includes/widgets/image-carousel.php:327
+msgid "Arrows Size"
+msgstr "Pilarnas storlek"
+
+#: includes/widgets/image-carousel.php:316
+#: includes/widgets/image-carousel.php:377
+msgid "Outside"
+msgstr "Utsida"
+
+#: includes/widgets/image-carousel.php:315
+#: includes/widgets/image-carousel.php:378
+msgid "Inside"
+msgstr "Insida"
+
+#: includes/widgets/image-carousel.php:311
+msgid "Arrows Position"
+msgstr "Pilarnas position"
+
+#: includes/widgets/image-carousel.php:272
+msgid "Direction"
+msgstr "Riktning"
+
+#: includes/widgets/audio.php:63 includes/widgets/image-carousel.php:186
+msgid "Additional Options"
+msgstr "Ytterligare inställningar"
+
+#: includes/widgets/image-carousel.php:104
+msgid "Arrows and Dots"
+msgstr "Pilar och punkter"
+
+#: includes/widgets/alert.php:129
+msgid "Left Border Width"
+msgstr "Kantbredd vänster"
+
+#: includes/elements/column.php:586 includes/elements/section.php:972
+#: includes/widgets/common.php:79 includes/widgets/counter.php:79
+msgid "Animation Duration"
+msgstr "Animationslängd"
+
+#: includes/widgets/image-carousel.php:87
+msgid "Image Stretch"
+msgstr "Stretcha bilder"
+
+#: includes/widgets/image-carousel.php:15
+#: includes/widgets/image-carousel.php:34
+msgid "Image Carousel"
+msgstr "Bildkarusell"
+
+#: includes/widgets/image-carousel.php:262
+msgid "Animation Speed"
+msgstr "Animationshastighet"
+
+#: includes/controls/groups/image-size.php:154
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "Du kan beskära originalbilden till valfri storlek. Du kan också ställa in ett bestämt värde för bredd eller höjd för att behålla bildförhållandet i originalbilden."
+
+#: includes/editor.php:405
+msgid "You must call 'the_content' function in the current template, in order for Elementor to work on this page."
+msgstr "Du måste ha funktionen 'the_content' i den nuvarande mallen för att Elementor ska fungera på denna sida."
+
+#: includes/editor.php:404
+msgid "Sorry, the content area was not found in your page."
+msgstr "Innehållsområdet kunde inte hittas på din sida."
+
+#: includes/widgets/audio.php:157 includes/widgets/video.php:226
+msgid "Controls Color"
+msgstr "Färg för knappar"
+
+#: includes/widgets/video.php:198
+msgid "Intro Portrait"
+msgstr "Introduktionsporträtt"
+
+#: includes/widgets/video.php:184
+msgid "Intro Title"
+msgstr "Introduktionsrubrik"
+
+#: includes/widgets/video.php:173
+msgid "Loop"
+msgstr "Loopning"
+
+#: includes/widgets/video.php:88
+msgid "Video Options"
+msgstr "Videoinställningar"
+
+#: includes/widgets/video.php:76
+msgid "Enter your video link"
+msgstr "Ange din videolänk"
+
+#: includes/widgets/video.php:62
+msgid "Enter your Vimeo link"
+msgstr "Ange din Vimeolänk"
+
+#: includes/widgets/video.php:60
+msgid "Vimeo Link"
+msgstr "Vimeolänk"
+
+#: includes/widgets/video.php:38
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:33
+msgid "Video Type"
+msgstr "Videotyp"
+
+#: includes/widgets/video.php:15 includes/widgets/video.php:26
+#: includes/widgets/video.php:315
+msgid "Video"
+msgstr "Video"
+
+#: includes/widgets/image-gallery.php:206
+msgid "Display"
+msgstr "Visa"
+
+#: includes/widgets/image-gallery.php:175 includes/widgets/image.php:211
+msgid "Image Border"
+msgstr "Bildkantlinje"
+
+#: includes/widgets/image-gallery.php:101
+msgid "Ordering"
+msgstr "Ordning"
+
+#: includes/controls/image-dimensions.php:41
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "Servern verkar inte ha ImageMagick eller GD installerat/tillgängligt! Något av dessa bibliotek är obligatoriska för att WordPress ska kunna beskära bilder. Kontakta serveradministratören för att installera ett av dessa bibliotek innan du fortsätter."
+
+#: includes/editor.php:403
+msgid "Insert Media"
+msgstr "Infoga media"
+
+#: includes/editor.php:402
+msgid "{0} Images Selected"
+msgstr "{0} bilder valda"
+
+#: includes/controls/groups/image-size.php:152
+msgctxt "Image Size Control"
+msgid "Image Dimension"
+msgstr "Bilddimensioner"
+
+#: includes/controls/groups/image-size.php:213
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "Anspasssad"
+
+#: includes/controls/groups/border.php:27
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "Streckad"
+
+#: includes/controls/groups/border.php:26
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Punktad"
+
+#: includes/controls/groups/border.php:25
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Dubbel"
+
+#: includes/controls/groups/border.php:24
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Solid"
+
+#: includes/controls/gallery.php:60
+msgid "+ Add Images"
+msgstr "+ Lägg till bilder"
+
+#: includes/controls/gallery.php:50
+msgid "No Images Selected"
+msgstr "Inga bilder valda"
+
+#: includes/widgets/image-carousel.php:250
+msgid "Fade"
+msgstr "Tona"
+
+#: includes/widgets/image-carousel.php:245
+msgid "Effect"
+msgstr "Effekt"
+
+#: includes/editor.php:400
+msgid "Are you sure you want to reset this gallery?"
+msgstr "Är du säker på att du vill rensa detta galleri?"
+
+#: includes/controls/groups/image-size.php:210
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Fullstor"
+
+#: includes/editor.php:401
+msgid "Reset Gallery"
+msgstr "Återställ galleri"
+
+#: includes/widgets/icon-box.php:390 includes/widgets/image-box.php:265
+msgid "Vertical Alignment"
+msgstr "Vertikal justering"
+
+#: includes/widgets/image-carousel.php:231
+msgid "Infinite Loop"
+msgstr "Oändlig loopning"
+
+#: includes/widgets/image-carousel.php:106
+#: includes/widgets/image-carousel.php:361
+msgid "Dots"
+msgstr "Punkter"
+
+#: includes/controls/structure.php:29
+msgid "Reset Structure"
+msgstr "Återställ struktur"
+
+#: includes/controls/groups/image-size.php:146
+msgctxt "Image Size Control"
+msgid "Image Size"
+msgstr "Bildstorlek"
+
+#: includes/widgets/icon-box.php:138 includes/widgets/image-box.php:108
+msgid "Title HTML Tag"
+msgstr "Title HTML-tagg"
+
+#: includes/widgets/icon-box.php:91 includes/widgets/image-box.php:61
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Välj redigera-knappen för att ändra denna text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: includes/widgets/icon-box.php:80 includes/widgets/image-box.php:50
+msgid "This is the heading"
+msgstr "Det här är rubriken"
+
+#: includes/elements/column.php:636 includes/elements/section.php:1022
+#: includes/widgets/common.php:129
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Lägg till din egna klass UTAN punkten. Ex.vis: min-klass"
+
+#: includes/elements/section.php:1061 includes/widgets/common.php:320
+msgid "Attention: The display settings (show/hide for mobile, tablet or desktop) will only take effect once you are on the preview or live page, and not while you're in editing mode in Elementor."
+msgstr "Obs: val för visningsalternativ (visa/dölj för mobil, platta eller dator) kommer endast användas när du förhandsgranskar sidan eller publicerar ändringarna."
+
+#: includes/elements/column.php:234 includes/elements/column.php:274
+#: includes/elements/section.php:462 includes/elements/section.php:502
+#: includes/widgets/image-box.php:197 includes/widgets/image.php:181
+msgid "Opacity (%)"
+msgstr "Transparens (%)"
+
+#: includes/widgets/image.php:153
+msgid "Size (%)"
+msgstr "Storlek (%)"
+
+#: core/settings/general/model.php:42 includes/settings/settings.php:149
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "Listan av typsnitt används om det valda typsnittet inte är tillgängligt."
+
+#: core/settings/general/model.php:39 includes/settings/settings.php:144
+msgid "Default Generic Fonts"
+msgstr "Standardtypsnitt"
+
+#: includes/managers/elements.php:176
+msgid "Pojo Themes"
+msgstr "Pojo Themes"
+
+#: includes/widgets/wordpress.php:97
+msgid "Form"
+msgstr "Formulär"
+
+#: includes/settings/system-info/classes/server.php:48
+msgctxt "System Info"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "Vi rekommenderar att du använder PHP 5.4 eller högre"
+
+#: includes/controls/groups/background.php:268
+msgid "Insert YouTube link or video file (mp4 is recommended)"
+msgstr "Infoga YouTube-länk eller videofil (mp4 rekommenderas)"
+
+#: includes/editor-templates/panel-elements.php:10
+msgid "Elements"
+msgstr "Element"
+
+#. Description of the plugin/theme
+msgid "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design."
+msgstr "Den mest avancerade redigeraren och sidbyggaren med \"dra-och-släpp\"-funktion. Skapa webbplatser meg hög kvalitet på nolltid. Alla mallar, alla sidor, alla typer av design."
+
+#: includes/settings/settings.php:130
+msgid "Opt-in to our anonymous plugin data collection and to updates. We guarantee no sensitive data is collected."
+msgstr "Valfritt: låt tillägget samla in användningsdata anonymt. Vi lovar att ingen känslig data samlas in."
+
+#: includes/admin.php:197 includes/managers/controls.php:79
+#: includes/settings/settings.php:55
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/controls/groups/typography.php:100
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "Sned"
+
+#: includes/controls/groups/typography.php:99
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "Kursiv"
+
+#: includes/controls/groups/typography.php:88
+#: includes/controls/groups/typography.php:98
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/controls/groups/typography.php:87
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "Ledande versaler"
+
+#: includes/controls/groups/typography.php:86
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "Gemener"
+
+#: includes/controls/groups/typography.php:85
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "Versaler"
+
+#. Author of the plugin/theme
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/video.php:280 includes/widgets/video.php:339
+msgid "Play Icon"
+msgstr "Spela-ikon"
+
+#: includes/widgets/video.php:249 includes/widgets/video.php:256
+msgid "Image Overlay"
+msgstr "Flytande bild"
+
+#: includes/widgets/video.php:136
+msgid "Player Title & Actions"
+msgstr "Spelarens titel och knappar"
+
+#: includes/widgets/video.php:122
+msgid "Player Control"
+msgstr "Spelningsknappar"
+
+#: includes/widgets/video.php:109
+msgid "Suggested Videos"
+msgstr "Föreslagna videoklipp"
+
+#: includes/widgets/video.php:323
+msgid "Aspect Ratio"
+msgstr "Bildförhållande"
+
+#: includes/widgets/video.php:48
+msgid "Enter your YouTube link"
+msgstr "Fyll i din YouTube-länk"
+
+#: includes/widgets/video.php:37
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/widgets/toggle.php:61
+msgid "Toggle Content"
+msgstr "Visa/dölj innehåll"
+
+#: includes/widgets/toggle.php:55
+msgid "Toggle Title"
+msgstr "Visa/dölj rubrik"
+
+#: includes/widgets/toggle.php:45
+msgid "Toggle #2"
+msgstr "Visa/dölj #2"
+
+#: includes/widgets/toggle.php:41
+msgid "Toggle #1"
+msgstr "Visa/dölj #1"
+
+#: includes/widgets/toggle.php:37
+msgid "Toggle Items"
+msgstr "Visa/dölj objekt"
+
+#: includes/widgets/toggle.php:15 includes/widgets/toggle.php:30
+#: includes/widgets/toggle.php:83
+msgid "Toggle"
+msgstr "Visa/dölj"
+
+#: includes/widgets/text-editor.php:35
+msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Jag är en textsektion. Välj redigera-knappen för att ändra denna text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: includes/widgets/text-editor.php:15 includes/widgets/text-editor.php:26
+#: includes/widgets/text-editor.php:55
+msgid "Text Editor"
+msgstr "Textredigerare"
+
+#: includes/widgets/tabs.php:75 includes/widgets/tabs.php:76
+msgid "Tab Content"
+msgstr "Flikens innehåll"
+
+#: includes/widgets/tabs.php:68 includes/widgets/tabs.php:69
+msgid "Tab Title"
+msgstr "Flikens titel"
+
+#: includes/widgets/tabs.php:59
+msgid "Tab #2"
+msgstr "Flik #2"
+
+#: includes/widgets/tabs.php:56 includes/widgets/tabs.php:60
+msgid "I am tab content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Jag är flikinnehåll. Välj redigera-knappen för att ändra denna text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: includes/widgets/tabs.php:55
+msgid "Tab #1"
+msgstr "Flik #1"
+
+#: includes/widgets/tabs.php:51
+msgid "Tabs Items"
+msgstr "Flikobjekt"
+
+#: includes/widgets/tabs.php:15 includes/widgets/tabs.php:30
+#: includes/widgets/tabs.php:99
+msgid "Tabs"
+msgstr "Flikar"
+
+#: includes/widgets/image-carousel.php:193
+msgid "Pause on Hover"
+msgstr "Pausa vid hovring"
+
+#: includes/widgets/image-carousel.php:221
+msgid "Autoplay Speed"
+msgstr "Hastighet för automatisk uppspelning"
+
+#: includes/widgets/image-carousel.php:105
+#: includes/widgets/image-carousel.php:299
+msgid "Arrows"
+msgstr "Pilar"
+
+#: includes/widgets/image-carousel.php:249
+msgid "Slide"
+msgstr "Bild"
+
+#: includes/widgets/sidebar.php:34 includes/widgets/sidebar.php:52
+msgid "Choose Sidebar"
+msgstr "Välj sidopanel"
+
+#: includes/widgets/sidebar.php:32
+msgid "No sidebars were found"
+msgstr "Inga sidopaneler hittades"
+
+#: includes/widgets/sidebar.php:15 includes/widgets/sidebar.php:47
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: includes/widgets/progress.php:156
+msgid "Title Style"
+msgstr "Rubrikstil"
+
+#: includes/widgets/progress.php:143
+msgid "Inner Text Color"
+msgstr "Inre textfärg"
+
+#: includes/widgets/progress.php:90
+msgid "Web Designer"
+msgstr "Webbdesigner"
+
+#: includes/widgets/progress.php:89
+msgid "e.g. Web Designer"
+msgstr "ex.vis. Webbdesigner"
+
+#: includes/widgets/progress.php:87
+msgid "Inner Text"
+msgstr "Inre text"
+
+#: includes/widgets/progress.php:75
+msgid "Display Percentage"
+msgstr "Visa procent"
+
+#: includes/widgets/progress.php:64
+msgid "Percentage"
+msgstr "procentandel"
+
+#: includes/widgets/progress.php:15 includes/widgets/progress.php:30
+#: includes/widgets/progress.php:109
+msgid "Progress Bar"
+msgstr "Förloppsindikator"
+
+#: includes/widgets/menu-anchor.php:48
+msgid "For Example: About"
+msgstr "Till exempel: Om"
+
+#: includes/widgets/menu-anchor.php:46
+msgid "The ID of Menu Anchor."
+msgstr "ID på menyankare."
+
+#: includes/widgets/menu-anchor.php:37
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "Detta ID kommer bli det CSS-ID du måste använda på din egen sida (utan '#')."
+
+#: includes/widgets/menu-anchor.php:30
+msgid "Anchor"
+msgstr "Ankare"
+
+#: includes/widgets/menu-anchor.php:15
+msgid "Menu Anchor"
+msgstr "Menyankare"
+
+#: includes/widgets/image.php:83
+msgid "Input image caption here"
+msgstr "Ange bildtext här"
+
+#: includes/widgets/image.php:82
+msgid "Enter your caption about the image"
+msgstr "Ange din bildtext för denna bild"
+
+#: includes/widgets/image-box.php:63
+msgid "Input image text here"
+msgstr "Skriv bildtext här"
+
+#: includes/widgets/image-box.php:83 includes/widgets/testimonial.php:76
+msgid "Image Position"
+msgstr "Bildposition"
+
+#: includes/widgets/image-box.php:147 includes/widgets/image-carousel.php:449
+#: includes/widgets/image-gallery.php:150
+msgid "Image Spacing"
+msgstr "Bildmellanrum"
+
+#: includes/widgets/image-box.php:169 includes/widgets/image.php:45
+#: includes/widgets/testimonial.php:176
+msgid "Image Size"
+msgstr "Bildstorlek"
+
+#: includes/widgets/image-box.php:15 includes/widgets/image-box.php:30
+msgid "Image Box"
+msgstr "Bildlåda"
+
+#: includes/widgets/icon-box.php:306 includes/widgets/icon.php:236
+#: includes/widgets/social-icons.php:304
+msgid "Icon Hover"
+msgstr "Ikonhovring"
+
+#: includes/widgets/accordion.php:104 includes/widgets/icon-box.php:275
+#: includes/widgets/icon.php:205 includes/widgets/tabs.php:130
+#: includes/widgets/text-editor.php:242 includes/widgets/toggle.php:91
+msgid "Border Width"
+msgstr "Kantbredd"
+
+#: includes/widgets/icon.php:170
+msgid "Icon Padding"
+msgstr "Ikon inre mellanrum"
+
+#: includes/widgets/icon-box.php:260 includes/widgets/icon.php:190
+msgid "Rotate"
+msgstr "Rotera"
+
+#: includes/widgets/icon-box.php:185 includes/widgets/icon-box.php:327
+#: includes/widgets/icon.php:137 includes/widgets/icon.php:257
+#: includes/widgets/social-icons.php:205 includes/widgets/social-icons.php:327
+#: includes/widgets/text-editor.php:166
+msgid "Secondary Color"
+msgstr "Sekundär färg"
+
+#: includes/widgets/icon-box.php:168 includes/widgets/icon-box.php:314
+#: includes/widgets/icon.php:120 includes/widgets/icon.php:244
+#: includes/widgets/social-icons.php:191 includes/widgets/social-icons.php:312
+#: includes/widgets/text-editor.php:147
+msgid "Primary Color"
+msgstr "Primär färg"
+
+#: includes/widgets/icon-box.php:65 includes/widgets/icon.php:62
+#: includes/widgets/social-icons.php:123
+msgid "Square"
+msgstr "Kvadrat"
+
+#: includes/widgets/icon-box.php:64 includes/widgets/icon.php:61
+#: includes/widgets/social-icons.php:124
+msgid "Circle"
+msgstr "Cirkel"
+
+#: includes/widgets/icon-box.php:61 includes/widgets/icon.php:58
+#: includes/widgets/social-icons.php:118
+msgid "Shape"
+msgstr "Form"
+
+#: includes/widgets/icon-box.php:42 includes/widgets/icon.php:38
+#: includes/widgets/text-editor.php:134
+msgid "Framed"
+msgstr "Inramad"
+
+#: includes/widgets/icon-box.php:41 includes/widgets/icon.php:37
+#: includes/widgets/text-editor.php:133
+msgid "Stacked"
+msgstr "Staplade"
+
+#: includes/widgets/icon-list.php:301
+msgid "Text Indent"
+msgstr "Indrag"
+
+#: includes/widgets/icon-list.php:59 includes/widgets/icon-list.php:60
+msgid "List Item"
+msgstr "Listobjekt"
+
+#: includes/widgets/icon-list.php:49
+msgid "List Item #3"
+msgstr "Listobjekt #3"
+
+#: includes/widgets/icon-list.php:45
+msgid "List Item #2"
+msgstr "Listobjekt #2"
+
+#: includes/widgets/icon-list.php:41
+msgid "List Item #1"
+msgstr "Listobjekt #1"
+
+#: includes/widgets/icon-list.php:15 includes/widgets/icon-list.php:30
+msgid "Icon List"
+msgstr "Ikonlista"
+
+#: includes/widgets/icon-box.php:93
+msgid "Input icon text here"
+msgstr "Ange ikontext här"
+
+#: includes/widgets/icon-box.php:105 includes/widgets/icon-list.php:74
+#: includes/widgets/image-box.php:75 includes/widgets/image-carousel.php:132
+#: includes/widgets/image.php:106 includes/widgets/social-icons.php:108
+msgid "http://your-link.com"
+msgstr "http://your-link.com"
+
+#: includes/widgets/icon-box.php:103 includes/widgets/image-box.php:73
+#: includes/widgets/image-carousel.php:116
+#: includes/widgets/image-gallery.php:70 includes/widgets/image.php:90
+#: includes/widgets/image.php:104
+msgid "Link to"
+msgstr "Länka till"
+
+#: includes/widgets/button.php:146
+msgid "Icon Spacing"
+msgstr "Ikonmellanrum"
+
+#: includes/widgets/icon-box.php:52
+msgid "Choose Icon"
+msgstr "Välj ikon"
+
+#: includes/widgets/icon-box.php:15 includes/widgets/icon-box.php:30
+msgid "Icon Box"
+msgstr "Ikonlåda"
+
+#: includes/widgets/html.php:40
+msgid "Enter your embed code here"
+msgstr "Ange din inbäddningskod här"
+
+#: includes/widgets/html.php:30
+msgid "HTML Code"
+msgstr "HTML-kod"
+
+#: includes/widgets/html.php:15
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/widgets/heading.php:84 includes/widgets/icon-box.php:149
+#: includes/widgets/image-box.php:119
+msgid "p"
+msgstr "p"
+
+#: includes/widgets/heading.php:83 includes/widgets/icon-box.php:148
+#: includes/widgets/image-box.php:118
+msgid "span"
+msgstr "span"
+
+#: includes/widgets/heading.php:82 includes/widgets/icon-box.php:147
+#: includes/widgets/image-box.php:117
+msgid "div"
+msgstr "div"
+
+#: includes/widgets/heading.php:81 includes/widgets/icon-box.php:146
+#: includes/widgets/image-box.php:116
+msgid "H6"
+msgstr "H6"
+
+#: includes/widgets/heading.php:80 includes/widgets/icon-box.php:145
+#: includes/widgets/image-box.php:115
+msgid "H5"
+msgstr "H5"
+
+#: includes/widgets/heading.php:79 includes/widgets/icon-box.php:144
+#: includes/widgets/image-box.php:114
+msgid "H4"
+msgstr "H4"
+
+#: includes/widgets/heading.php:78 includes/widgets/icon-box.php:143
+#: includes/widgets/image-box.php:113
+msgid "H3"
+msgstr "H3"
+
+#: includes/widgets/heading.php:77 includes/widgets/icon-box.php:142
+#: includes/widgets/image-box.php:112
+msgid "H2"
+msgstr "H2"
+
+#: includes/widgets/heading.php:76 includes/widgets/icon-box.php:141
+#: includes/widgets/image-box.php:111
+msgid "H1"
+msgstr "H1"
+
+#: includes/elements/column.php:128 includes/elements/section.php:337
+#: includes/widgets/heading.php:73
+msgid "HTML Tag"
+msgstr "HTML-tagg"
+
+#: includes/widgets/heading.php:36
+msgid "This is heading element"
+msgstr "Detta är ett rubrikelement"
+
+#: includes/widgets/heading.php:35 includes/widgets/progress.php:39
+msgid "Enter your title"
+msgstr "Ange rubrik"
+
+#: includes/widgets/heading.php:15
+msgid "Heading"
+msgstr "Rubrik"
+
+#: includes/widgets/google-maps.php:45
+msgid "Zoom Level"
+msgstr "Zoomnivå"
+
+#: includes/widgets/google-maps.php:34
+msgid "Address"
+msgstr "Adress"
+
+#: includes/widgets/google-maps.php:30
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, London, United Kingdom"
+
+#: includes/widgets/google-maps.php:26
+msgid "Map"
+msgstr "Karta"
+
+#: includes/widgets/google-maps.php:15
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/widgets/image-carousel.php:160
+#: includes/widgets/image-carousel.php:166
+#: includes/widgets/image-carousel.php:497
+#: includes/widgets/image-gallery.php:198 includes/widgets/image.php:79
+#: includes/widgets/image.php:245
+msgid "Caption"
+msgstr "Bildtext"
+
+#: includes/widgets/image-gallery.php:125
+msgid "Images"
+msgstr "Bilder"
+
+#: includes/widgets/image-gallery.php:105
+msgid "Random"
+msgstr "Slumpad"
+
+#: includes/widgets/image-carousel.php:121
+#: includes/widgets/image-gallery.php:74 includes/widgets/image.php:95
+msgid "Media File"
+msgstr "Mediafil"
+
+#: includes/widgets/image-gallery.php:75
+msgid "Attachment Page"
+msgstr "Sida för bilaga"
+
+#: includes/widgets/image-carousel.php:41 includes/widgets/image-gallery.php:41
+msgid "Add Images"
+msgstr "Lägg till bilder"
+
+#: includes/widgets/image-gallery.php:15 includes/widgets/image-gallery.php:34
+msgid "Image Gallery"
+msgstr "Bildgalleri"
+
+#: includes/widgets/divider.php:140
+msgid "Gap"
+msgstr "Mellanrum"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:71
+#: includes/elements/section.php:700 includes/widgets/accordion.php:159
+#: includes/widgets/accordion.php:218 includes/widgets/divider.php:71
+#: includes/widgets/icon-box.php:431 includes/widgets/icon-box.php:465
+#: includes/widgets/icon-list.php:208 includes/widgets/icon-list.php:255
+#: includes/widgets/image-box.php:306 includes/widgets/image-box.php:340
+#: includes/widgets/progress.php:117 includes/widgets/social-icons.php:178
+#: includes/widgets/tabs.php:182 includes/widgets/tabs.php:230
+#: includes/widgets/toggle.php:144 includes/widgets/toggle.php:203
+#: includes/widgets/video.php:350
+msgid "Color"
+msgstr "Färg"
+
+#: includes/widgets/divider.php:51 includes/widgets/icon-list.php:185
+msgid "Weight"
+msgstr "Vikt"
+
+#: includes/widgets/spacer.php:15 includes/widgets/spacer.php:30
+msgid "Spacer"
+msgstr "Mellanrum"
+
+#: includes/widgets/divider.php:15 includes/widgets/divider.php:26
+#: includes/widgets/icon-list.php:150
+msgid "Divider"
+msgstr "Avdelning"
+
+#: includes/widgets/counter.php:123
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/widgets/counter.php:104 includes/widgets/counter.php:105
+msgid "Cool Number"
+msgstr "Coolt nummer"
+
+#: includes/widgets/counter.php:72
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/widgets/counter.php:69
+msgid "Number Suffix"
+msgstr "Nummer-ändelse"
+
+#: includes/widgets/counter.php:59
+msgid "Number Prefix"
+msgstr "Nummer-prefix"
+
+#: includes/widgets/counter.php:50
+msgid "Ending Number"
+msgstr "Sista nummer"
+
+#: includes/widgets/counter.php:41
+msgid "Starting Number"
+msgstr "Första nummer"
+
+#: includes/widgets/counter.php:15 includes/widgets/counter.php:34
+msgid "Counter"
+msgstr "Räknare"
+
+#: includes/widgets/audio.php:72 includes/widgets/image-carousel.php:207
+#: includes/widgets/video.php:98 includes/widgets/video.php:162
+msgid "Autoplay"
+msgstr "Automatisk uppspelning"
+
+#: includes/widgets/image-carousel.php:73
+msgid "Slides to Scroll"
+msgstr "Bilder att skrolla genom"
+
+#: includes/widgets/image-carousel.php:61
+msgid "Slides to Show"
+msgstr "Bilder att visa"
+
+#: includes/widgets/image-box.php:37 includes/widgets/image.php:33
+msgid "Choose Image"
+msgstr "Välj bild"
+
+#: includes/widgets/image-box.php:139 includes/widgets/image-carousel.php:425
+#: includes/widgets/image.php:15 includes/widgets/image.php:26
+#: includes/widgets/image.php:145 includes/widgets/testimonial.php:165
+#: includes/widgets/video.php:266
+msgid "Image"
+msgstr "Bild"
+
+#: includes/widgets/button.php:320
+msgid "Text Padding"
+msgstr "Inre textmellanrum"
+
+#: includes/elements/column.php:321 includes/elements/section.php:550
+#: includes/widgets/button.php:289 includes/widgets/common.php:204
+msgid "Border"
+msgstr "Kantlinje"
+
+#: includes/widgets/button.php:135
+msgid "After"
+msgstr "Efter"
+
+#: includes/widgets/button.php:134
+msgid "Before"
+msgstr "Före"
+
+#: includes/widgets/button.php:130 includes/widgets/icon-box.php:113
+msgid "Icon Position"
+msgstr "Ikonposition"
+
+#: includes/widgets/button.php:120 includes/widgets/icon-box.php:160
+#: includes/widgets/icon-list.php:64 includes/widgets/icon-list.php:247
+#: includes/widgets/icon.php:15 includes/widgets/icon.php:26
+#: includes/widgets/icon.php:48 includes/widgets/icon.php:112
+#: includes/widgets/social-icons.php:53 includes/widgets/social-icons.php:170
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/widgets/button.php:110 includes/widgets/heading.php:56
+#: includes/widgets/icon-box.php:223 includes/widgets/icon-list.php:271
+#: includes/widgets/icon.php:153 includes/widgets/social-icons.php:219
+#: includes/widgets/text-editor.php:181 includes/widgets/video.php:365
+msgid "Size"
+msgstr "Storlek"
+
+#: includes/widgets/button.php:98 includes/widgets/heading.php:109
+#: includes/widgets/icon-box.php:377 includes/widgets/image-box.php:252
+#: includes/widgets/image-carousel.php:524
+#: includes/widgets/image-gallery.php:238 includes/widgets/image.php:269
+#: includes/widgets/text-editor.php:79
+msgid "Justified"
+msgstr "Justerad"
+
+#: includes/widgets/button.php:82 includes/widgets/divider.php:114
+#: includes/widgets/heading.php:93 includes/widgets/icon-box.php:361
+#: includes/widgets/icon-list.php:120 includes/widgets/icon.php:84
+#: includes/widgets/image-box.php:236 includes/widgets/image-carousel.php:508
+#: includes/widgets/image-gallery.php:222 includes/widgets/image.php:53
+#: includes/widgets/image.php:253 includes/widgets/social-icons.php:133
+#: includes/widgets/testimonial.php:93 includes/widgets/text-editor.php:63
+msgid "Alignment"
+msgstr "Justering"
+
+#: includes/widgets/button.php:62 includes/widgets/button.php:63
+msgid "Click me"
+msgstr "Klicka här"
+
+#: includes/widgets/heading.php:65
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/widgets/heading.php:64
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/button.php:27 includes/widgets/heading.php:63
+msgid "Large"
+msgstr "Stor"
+
+#: includes/widgets/button.php:26 includes/widgets/heading.php:62
+msgid "Medium"
+msgstr "Mellan"
+
+#: includes/widgets/button.php:25 includes/widgets/heading.php:61
+msgid "Small"
+msgstr "Liten"
+
+#: includes/widgets/button.php:15 includes/widgets/button.php:36
+#: includes/widgets/button.php:177
+msgid "Button"
+msgstr "Knapp"
+
+#: includes/elements/section.php:1096 includes/widgets/common.php:355
+msgid "Hide On Mobile"
+msgstr "Göm på mobil"
+
+#: includes/elements/section.php:1083 includes/widgets/common.php:342
+msgid "Hide On Tablet"
+msgstr "Göm på platta"
+
+#: includes/elements/section.php:1070 includes/widgets/common.php:329
+msgid "Hide On Desktop"
+msgstr "Göm på desktop"
+
+#: includes/elements/column.php:346 includes/elements/column.php:383
+#: includes/elements/section.php:574 includes/elements/section.php:610
+#: includes/widgets/button.php:300 includes/widgets/common.php:229
+#: includes/widgets/common.php:266 includes/widgets/icon-box.php:289
+#: includes/widgets/icon.php:219 includes/widgets/image-carousel.php:483
+#: includes/widgets/image-gallery.php:184 includes/widgets/image.php:220
+#: includes/widgets/social-icons.php:290 includes/widgets/testimonial.php:203
+#: includes/widgets/text-editor.php:223
+msgid "Border Radius"
+msgstr "Kantradie"
+
+#: includes/elements/column.php:528 includes/elements/section.php:908
+#: includes/widgets/common.php:22
+msgid "Element Style"
+msgstr "Elementstil"
+
+#: includes/compatibility.php:71 includes/widgets/alert.php:178
+#: includes/widgets/icon-box.php:456 includes/widgets/image-box.php:331
+#: includes/widgets/image-carousel.php:167
+msgid "Description"
+msgstr "Beskrivning"
+
+#: core/settings/page/model.php:73 includes/widgets/accordion.php:139
+#: includes/widgets/alert.php:148 includes/widgets/counter.php:101
+#: includes/widgets/counter.php:157 includes/widgets/heading.php:26
+#: includes/widgets/heading.php:33 includes/widgets/heading.php:134
+#: includes/widgets/icon-box.php:405 includes/widgets/image-box.php:280
+#: includes/widgets/image-carousel.php:165 includes/widgets/progress.php:37
+#: includes/widgets/tabs.php:173 includes/widgets/toggle.php:124
+msgid "Title"
+msgstr "Rubrik"
+
+#: core/settings/general/model.php:101 includes/widgets/alert.php:107
+#: includes/widgets/button.php:216 includes/widgets/button.php:251
+#: includes/widgets/progress.php:132 includes/widgets/tabs.php:161
+#: includes/widgets/video.php:416
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: includes/widgets/alert.php:99
+msgid "Alert Type"
+msgstr "Varningsstil"
+
+#: includes/elements/section.php:1074 includes/elements/section.php:1087
+#: includes/elements/section.php:1100 includes/widgets/alert.php:80
+#: includes/widgets/audio.php:82 includes/widgets/audio.php:93
+#: includes/widgets/audio.php:104 includes/widgets/audio.php:115
+#: includes/widgets/audio.php:126 includes/widgets/audio.php:137
+#: includes/widgets/audio.php:148 includes/widgets/counter.php:94
+#: includes/widgets/image-gallery.php:211 includes/widgets/progress.php:80
+#: includes/widgets/video.php:111 includes/widgets/video.php:124
+#: includes/widgets/video.php:138 includes/widgets/video.php:186
+#: includes/widgets/video.php:200 includes/widgets/video.php:214
+#: includes/widgets/video.php:258
+msgid "Hide"
+msgstr "Dölj"
+
+#: includes/elements/section.php:1075 includes/elements/section.php:1088
+#: includes/elements/section.php:1101 includes/widgets/alert.php:79
+#: includes/widgets/audio.php:83 includes/widgets/audio.php:94
+#: includes/widgets/audio.php:105 includes/widgets/audio.php:116
+#: includes/widgets/audio.php:127 includes/widgets/audio.php:138
+#: includes/widgets/audio.php:149 includes/widgets/counter.php:93
+#: includes/widgets/image-gallery.php:210 includes/widgets/progress.php:79
+#: includes/widgets/video.php:112 includes/widgets/video.php:125
+#: includes/widgets/video.php:139 includes/widgets/video.php:187
+#: includes/widgets/video.php:201 includes/widgets/video.php:215
+#: includes/widgets/video.php:259
+msgid "Show"
+msgstr "Visa"
+
+#: includes/widgets/alert.php:75
+msgid "Dismiss Button"
+msgstr "Stäng-knapp"
+
+#: includes/widgets/alert.php:66
+msgid "I am description. Click edit button to change this text."
+msgstr "Jag är en beskrivning. Välj redigera-knappen för att ändra denna text."
+
+#: includes/widgets/alert.php:65 includes/widgets/icon-box.php:92
+#: includes/widgets/image-box.php:62
+msgid "Your Description"
+msgstr "Din beskrivning"
+
+#: includes/widgets/alert.php:54 includes/widgets/icon-box.php:81
+#: includes/widgets/image-box.php:51
+msgid "Your Title"
+msgstr "Din rubrik"
+
+#: includes/widgets/alert.php:52 includes/widgets/icon-box.php:78
+#: includes/widgets/image-box.php:48
+msgid "Title & Description"
+msgstr "Rubrik & beskrivning"
+
+#: includes/widgets/alert.php:44 includes/widgets/button.php:51
+#: includes/widgets/progress.php:56
+msgid "Danger"
+msgstr "Fara"
+
+#: includes/widgets/alert.php:43 includes/widgets/button.php:50
+#: includes/widgets/progress.php:55
+msgid "Warning"
+msgstr "Varning"
+
+#: includes/widgets/alert.php:42 includes/widgets/button.php:49
+#: includes/widgets/progress.php:54
+msgid "Success"
+msgstr "Succé"
+
+#: includes/widgets/alert.php:41 includes/widgets/button.php:48
+#: includes/widgets/progress.php:53
+msgid "Info"
+msgstr "Information"
+
+#: includes/elements/section.php:689 includes/widgets/alert.php:37
+#: includes/widgets/button.php:43 includes/widgets/progress.php:48
+#: includes/widgets/tabs.php:37
+msgid "Type"
+msgstr "Typ"
+
+#: includes/widgets/alert.php:15 includes/widgets/alert.php:30
+msgid "Alert"
+msgstr "Varning"
+
+#: includes/widgets/testimonial.php:136
+msgid "Content Color"
+msgstr "Innehållsfärg"
+
+#: includes/widgets/accordion.php:174 includes/widgets/tabs.php:197
+#: includes/widgets/toggle.php:159
+msgid "Active Color"
+msgstr "Aktiv färg"
+
+#: includes/widgets/accordion.php:126 includes/widgets/alert.php:118
+#: includes/widgets/button.php:262 includes/widgets/social-icons.php:342
+#: includes/widgets/tabs.php:150 includes/widgets/toggle.php:112
+msgid "Border Color"
+msgstr "Kantfärg"
+
+#: includes/widgets/accordion.php:91
+msgid "Icon Alignment"
+msgstr "Ikonjustering"
+
+#: includes/widgets/accordion.php:72 includes/widgets/alert.php:88
+#: includes/widgets/audio.php:165 includes/widgets/button.php:166
+#: includes/widgets/counter.php:112 includes/widgets/divider.php:160
+#: includes/widgets/google-maps.php:94 includes/widgets/heading.php:123
+#: includes/widgets/icon-box.php:37 includes/widgets/icon-list.php:84
+#: includes/widgets/icon.php:33 includes/widgets/image-box.php:128
+#: includes/widgets/image-carousel.php:175
+#: includes/widgets/image-gallery.php:114 includes/widgets/image.php:134
+#: includes/widgets/progress.php:98 includes/widgets/social-icons.php:159
+#: includes/widgets/spacer.php:57 includes/widgets/tabs.php:88
+#: includes/widgets/testimonial.php:116 includes/widgets/text-editor.php:129
+#: includes/widgets/toggle.php:72 includes/widgets/video.php:238
+msgid "View"
+msgstr "Visa"
+
+#: includes/widgets/accordion.php:61
+msgid "Accordion Content"
+msgstr "Dragspelsinnehåll"
+
+#: includes/widgets/accordion.php:54
+msgid "Accordion Title"
+msgstr "Dragspelsrubrik"
+
+#: includes/widgets/accordion.php:52 includes/widgets/tabs.php:66
+#: includes/widgets/toggle.php:52
+msgid "Title & Content"
+msgstr "Rubrik och innehåll"
+
+#: includes/widgets/accordion.php:45
+msgid "Accordion #2"
+msgstr "Dragspel #2"
+
+#: includes/widgets/accordion.php:42 includes/widgets/accordion.php:46
+#: includes/widgets/toggle.php:42 includes/widgets/toggle.php:46
+msgid "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Jag är sektionsinnehåll. Välj redigera-knappen för att ändra denna text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: includes/widgets/accordion.php:41
+msgid "Accordion #1"
+msgstr "Dragspel #1"
+
+#: includes/widgets/accordion.php:37
+msgid "Accordion Items"
+msgstr "Dragspelsobjekt"
+
+#: includes/widgets/accordion.php:15 includes/widgets/accordion.php:30
+#: includes/widgets/accordion.php:83
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: includes/tracker.php:148
+msgid "Sure! I'd love to help"
+msgstr "Självklart! Jag vill hjälpa till"
+
+#: includes/tracker.php:143
+msgid "Love using Elementor? Become a super contributor by opting in to our anonymous plugin data collection and to our updates. We guarantee no sensitive data is collected."
+msgstr "Gillar du att använda Elementor? Hjälp oss utveckla tillägget genom att skicka anonym användningsdata och automatiska uppdateringar. Vi lovar att ingen känslig data samlas in."
+
+#: includes/settings/system-info/main.php:109
+msgid "You don't have a permission to download this file"
+msgstr "Du har inte behörighet att ladda ner denna fil"
+
+#: includes/settings/system-info/main.php:101
+msgid "Download System Info"
+msgstr "Ladda ner systeminformation"
+
+#: includes/settings/system-info/main.php:81
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "Du kan kopiera information nedan som oformaterad text med kommandon CTRL+C / CTRL+V (CMD+C / CMD+V för Mac):"
+
+#: includes/settings/system-info/main.php:79
+msgid "Copy & Paste Info"
+msgstr "Kopiera och klistra in"
+
+#: includes/settings/system-info/main.php:77
+#: includes/settings/system-info/main.php:182
+msgid "System Info"
+msgstr "Systeminformation"
+
+#: includes/widgets/testimonial.php:58 includes/widgets/testimonial.php:218
+msgid "Name"
+msgstr "Namn"
+
+#: core/settings/page/model.php:92 includes/controls/switcher.php:61
+#: includes/editor.php:426 includes/widgets/audio.php:55
+#: includes/widgets/image-carousel.php:91
+#: includes/widgets/image-carousel.php:149
+#: includes/widgets/image-carousel.php:198
+#: includes/widgets/image-carousel.php:212
+#: includes/widgets/image-carousel.php:236
+#: includes/widgets/image-gallery.php:90 includes/widgets/image.php:123
+#: includes/widgets/video.php:285
+msgid "No"
+msgstr "Nej"
+
+#: core/settings/page/model.php:93 includes/admin.php:47
+#: includes/controls/switcher.php:62 includes/editor.php:427
+#: includes/widgets/audio.php:54 includes/widgets/image-carousel.php:92
+#: includes/widgets/image-carousel.php:148
+#: includes/widgets/image-carousel.php:197
+#: includes/widgets/image-carousel.php:211
+#: includes/widgets/image-carousel.php:235
+#: includes/widgets/image-gallery.php:89 includes/widgets/image.php:122
+#: includes/widgets/video.php:284
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/settings/settings.php:125
+msgid "Usage Data Tracking"
+msgstr "Användningslogg"
+
+#: includes/settings/settings.php:96
+msgid "Exclude Roles"
+msgstr "Exkludera roller"
+
+#: includes/settings/settings.php:87
+msgid "Post Types"
+msgstr "Inläggstyper"
+
+#: includes/schemes/typography.php:32
+msgid "Accent Text"
+msgstr "Accentfärg text"
+
+#: includes/schemes/typography.php:31
+msgid "Body Text"
+msgstr "Brödtext"
+
+#: includes/schemes/typography.php:30
+msgid "Secondary Headline"
+msgstr "Sekundär rubrik"
+
+#: includes/schemes/typography.php:29
+msgid "Primary Headline"
+msgstr "Huvudrubrik"
+
+#: includes/schemes/color.php:32
+msgid "Accent"
+msgstr "Accentfärg"
+
+#: includes/schemes/color.php:31 includes/widgets/button.php:60
+#: includes/widgets/icon-list.php:56 includes/widgets/icon-list.php:293
+msgid "Text"
+msgstr "Text"
+
+#: includes/schemes/color.php:30
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: includes/schemes/color.php:29
+msgid "Primary"
+msgstr "Primär"
+
+#: core/base/module.php:33 core/base/module.php:44 includes/plugin.php:158
+#: includes/plugin.php:169
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du?"
+
+#: includes/managers/elements.php:180
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/widgets/image-carousel.php:100
+#: includes/widgets/image-carousel.php:288
+msgid "Navigation"
+msgstr "Navigation"
+
+#: includes/managers/elements.php:168
+msgid "Basic"
+msgstr "Grundläggande"
+
+#: includes/elements/section.php:1052
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: includes/elements/column.php:83 includes/elements/section.php:307
+#: includes/widgets/video.php:470
+msgid "Content Position"
+msgstr "Innehållsposition"
+
+#: includes/elements/column.php:89 includes/elements/section.php:294
+#: includes/elements/section.php:313 includes/widgets/icon-box.php:394
+#: includes/widgets/image-box.php:269
+msgid "Middle"
+msgstr "Mitten"
+
+#: includes/elements/section.php:292
+msgid "Stretch"
+msgstr "Sträck ut"
+
+#: includes/elements/section.php:288
+msgid "Column Position"
+msgstr "Kolumnposition"
+
+#: includes/elements/section.php:220 includes/elements/section.php:264
+msgid "Minimum Height"
+msgstr "Minimumhöjd"
+
+#: includes/elements/section.php:210 includes/elements/section.php:254
+msgid "Min Height"
+msgstr "Min. höjd"
+
+#: includes/elements/section.php:209
+msgid "Fit To Screen"
+msgstr "Skala till skärm"
+
+#: includes/controls/image-dimensions.php:62 includes/elements/section.php:204
+#: includes/elements/section.php:249 includes/elements/section.php:744
+#: includes/widgets/google-maps.php:62
+msgid "Height"
+msgstr "Höjd"
+
+#: includes/elements/section.php:195
+msgid "Wide"
+msgstr "Bred"
+
+#: includes/elements/section.php:193
+msgid "Narrow"
+msgstr "Smal"
+
+#: includes/elements/section.php:192
+msgid "No Gap"
+msgstr "Inga mellanrum"
+
+#: includes/elements/section.php:187
+msgid "Columns Gap"
+msgstr "Kolumnmellanrum"
+
+#: core/settings/general/model.php:46 includes/elements/section.php:151
+#: includes/elements/section.php:165 includes/settings/settings.php:153
+#: includes/widgets/video.php:450
+msgid "Content Width"
+msgstr "Innehållsbredd"
+
+#: includes/elements/section.php:156
+msgid "Full Width"
+msgstr "Fullbredd"
+
+#: includes/elements/section.php:155
+msgid "Boxed"
+msgstr "Inboxad"
+
+#: includes/controls/image-dimensions.php:56 includes/elements/section.php:714
+#: includes/widgets/divider.php:87 includes/widgets/icon-list.php:227
+msgid "Width"
+msgstr "Bredd"
+
+#: includes/elements/column.php:48 includes/elements/section.php:129
+#: includes/managers/controls.php:78
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/elements/column.php:56 includes/elements/column.php:668
+msgid "Column Width"
+msgstr "Kolumnbredd"
+
+#: includes/elements/column.php:631 includes/elements/section.php:1017
+#: includes/widgets/common.php:124
+msgid "CSS Classes"
+msgstr "CSS-klasser"
+
+#: core/settings/page/model.php:168 includes/elements/column.php:549
+#: includes/elements/section.php:935 includes/widgets/common.php:42
+#: includes/widgets/icon-box.php:240 includes/widgets/social-icons.php:236
+msgid "Padding"
+msgstr "Inre mellanrum"
+
+#: includes/elements/column.php:537 includes/elements/section.php:916
+#: includes/widgets/common.php:30
+msgid "Margin"
+msgstr "Marginal"
+
+#: includes/elements/column.php:508 includes/elements/section.php:888
+#: includes/widgets/button.php:90 includes/widgets/divider.php:122
+#: includes/widgets/heading.php:101 includes/widgets/icon-box.php:369
+#: includes/widgets/icon-list.php:128 includes/widgets/icon.php:92
+#: includes/widgets/image-box.php:244 includes/widgets/image-carousel.php:516
+#: includes/widgets/image-gallery.php:230 includes/widgets/image.php:61
+#: includes/widgets/image.php:261 includes/widgets/social-icons.php:141
+#: includes/widgets/testimonial.php:102 includes/widgets/text-editor.php:71
+#: includes/widgets/video.php:474
+msgid "Center"
+msgstr "Center"
+
+#: includes/elements/column.php:500 includes/elements/section.php:880
+msgid "Text Align"
+msgstr "Textjustering"
+
+#: includes/elements/column.php:488 includes/elements/section.php:868
+msgid "Link Hover Color"
+msgstr "Länkhovringsfärg"
+
+#: includes/elements/column.php:476 includes/elements/section.php:856
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: includes/elements/column.php:451 includes/elements/section.php:831
+msgid "Heading Color"
+msgstr "Rubrikfärg"
+
+#: includes/elements/column.php:464 includes/elements/section.php:844
+#: includes/widgets/alert.php:156 includes/widgets/alert.php:186
+#: includes/widgets/button.php:204 includes/widgets/button.php:240
+#: includes/widgets/counter.php:131 includes/widgets/counter.php:165
+#: includes/widgets/heading.php:142 includes/widgets/icon-list.php:317
+#: includes/widgets/image-carousel.php:538
+#: includes/widgets/image-gallery.php:255 includes/widgets/image.php:283
+#: includes/widgets/progress.php:164 includes/widgets/testimonial.php:226
+#: includes/widgets/testimonial.php:263 includes/widgets/text-editor.php:92
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: includes/elements/column.php:431 includes/elements/section.php:812
+#: includes/schemes/typography.php:20 includes/widgets/button.php:186
+#: includes/widgets/icon-list.php:334 includes/widgets/image-carousel.php:551
+#: includes/widgets/image-gallery.php:271 includes/widgets/testimonial.php:153
+#: includes/widgets/testimonial.php:243 includes/widgets/testimonial.php:280
+msgid "Typography"
+msgstr "Typografi"
+
+#: includes/elements/column.php:13 includes/elements/column.php:36
+#: includes/elements/column.php:708
+msgid "Column"
+msgstr "Kolumn"
+
+#: includes/editor.php:412 includes/elements/section.php:15
+#: includes/elements/section.php:42 includes/elements/section.php:1115
+msgid "Section"
+msgstr "Sektion"
+
+#: includes/controls/structure.php:24 includes/elements/section.php:346
+msgid "Structure"
+msgstr "Struktur"
+
+#: includes/elements/column.php:645 includes/elements/section.php:1032
+#: includes/managers/controls.php:77 includes/widgets/common.php:312
+msgid "Responsive"
+msgstr "Responsiv"
+
+#: includes/managers/controls.php:76 includes/settings/settings.php:209
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: core/settings/general/model.php:36 includes/managers/controls.php:75
+#: includes/settings/settings.php:139 includes/widgets/divider.php:33
+#: includes/widgets/icon-list.php:164
+msgid "Style"
+msgstr "Stil"
+
+#: includes/managers/controls.php:74 includes/widgets/accordion.php:59
+#: includes/widgets/accordion.php:198 includes/widgets/alert.php:63
+#: includes/widgets/icon-box.php:353 includes/widgets/image-box.php:59
+#: includes/widgets/image-box.php:228 includes/widgets/tabs.php:74
+#: includes/widgets/tabs.php:221 includes/widgets/testimonial.php:37
+#: includes/widgets/testimonial.php:128 includes/widgets/toggle.php:59
+#: includes/widgets/toggle.php:183
+msgid "Content"
+msgstr "Innehåll"
+
+#: includes/editor.php:399 includes/widgets/image-gallery.php:60
+msgid "Columns"
+msgstr "Kolumner"
+
+#: includes/editor.php:398
+msgid "About Elementor"
+msgstr "Om Elementor"
+
+#: modules/history/revisions-manager.php:175
+msgid "Revision History"
+msgstr "Versionshistorik"
+
+#: includes/editor.php:396
+msgid "Soon"
+msgstr "Snart"
+
+#: includes/editor.php:395
+msgid "Elementor Settings"
+msgstr "Inställningar för Elementor"
+
+#: core/settings/page/model.php:45 core/settings/page/model.php:65
+msgid "Page Settings"
+msgstr "Inställning för sida"
+
+#: includes/schemes/color.php:20
+msgid "Colors"
+msgstr "Färger"
+
+#: includes/editor.php:392
+msgid "Edit {0}"
+msgstr "Redigera {0}"
+
+#: includes/editor.php:391
+msgid "Please note: All unsaved changes will be lost."
+msgstr "Obs: Alla osparade ändringar kommer att förloras."
+
+#: includes/editor.php:390
+msgid "Saved"
+msgstr "Sparad"
+
+#: includes/editor.php:389
+msgid "Go Back"
+msgstr "Gå tillbaka"
+
+#: includes/editor.php:388
+msgid "Take Over"
+msgstr "Ta över"
+
+#: includes/admin.php:48 includes/editor.php:386
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: includes/editor.php:384
+msgid "{0} has taken over and is currently editing. Do you want to take over this page editing?"
+msgstr "{0} har tagit över redigeraren. Vill du ta tillbaka kontrollen över denna sidas redigering?"
+
+#: includes/editor.php:383
+msgid "Are you sure you want to remove this {0}?"
+msgstr "Är du säker på att du vill ta bort {0}?"
+
+#: includes/schemes/color.php:62
+msgid "More Palettes"
+msgstr "Fler paletter"
+
+#: includes/schemes/color.php:171
+msgid "Color Palette"
+msgstr "Färgpalett"
+
+#: includes/controls/image-dimensions.php:64
+#: includes/editor-templates/panel.php:123 includes/schemes/base.php:78
+#: modules/history/views/revisions-panel-template.php:11
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: includes/schemes/base.php:74
+#: modules/history/views/revisions-panel-template.php:6
+msgid "Discard"
+msgstr "Kasta bort"
+
+#: includes/schemes/base.php:69
+msgid "Reset"
+msgstr "Rensa"
+
+#: includes/editor-templates/panel.php:105
+#: includes/editor-templates/panel.php:106
+#: includes/editor-templates/templates.php:108 includes/editor.php:421
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: includes/editor-templates/panel.php:93
+#: includes/editor-templates/panel.php:98
+#: includes/editor-templates/templates.php:123
+msgid "Save"
+msgstr "Spara"
+
+#: includes/editor-templates/panel.php:62
+msgid "Tablet"
+msgstr "Platta"
+
+#: includes/editor-templates/panel.php:57
+msgid "Desktop"
+msgstr "Dator"
+
+#: includes/editor-templates/panel.php:51
+msgid "Responsive Mode"
+msgstr "Responsivt läge"
+
+#: includes/editor-templates/panel.php:46
+msgid "Go to Dashboard"
+msgstr "Gå till kontrollpanel"
+
+#: includes/editor-templates/panel.php:42
+msgid "View Page"
+msgstr "Visa sida"
+
+#: includes/editor-templates/panel.php:36
+msgid "Exit"
+msgstr "Stäng"
+
+#: includes/editor-templates/panel.php:31
+msgid "Widgets Panel"
+msgstr "Widgetfält"
+
+#: includes/editor-templates/panel.php:27
+msgid "Menu"
+msgstr "Meny"
+
+#: includes/editor-templates/panel-elements.php:33
+msgid "Search Widget..."
+msgstr "Sök widget..."
+
+#: includes/editor-templates/global.php:26
+msgid "Or drag widget here"
+msgstr "Eller dra widget hit"
+
+#: includes/editor-templates/global.php:24
+msgid "Add New Section"
+msgstr "Lägg till ny sektion"
+
+#: includes/admin.php:134 includes/editor-templates/editor-wrapper.php:37
+#: includes/editor-templates/templates.php:50
+msgid "Loading"
+msgstr "Laddar"
+
+#. #-#-#-#-#  elementor-code.pot (Elementor 1.7.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: core/settings/page/manager.php:41
+#: includes/editor-templates/editor-wrapper.php:20 includes/editor.php:382
+#: includes/settings/settings.php:23 includes/settings/settings.php:24
+#: includes/settings/settings.php:249
+#: includes/template-library/sources/local.php:120
+#: includes/template-library/sources/local.php:121
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/controls/structure.php:34
+msgid "More Structures"
+msgstr "Fler strukturer"
+
+#: includes/controls/repeater.php:57
+msgid "Add Item"
+msgstr "Lägg till objekt"
+
+#: includes/controls/media.php:90 includes/editor-templates/templates.php:105
+#: includes/editor.php:385
+msgid "Delete"
+msgstr "Radera"
+
+#: includes/controls/icon.php:829 includes/controls/icon.php:830
+msgid "Select Icon"
+msgstr "Välj ikon"
+
+#: includes/elements/column.php:658 includes/maintenance-mode.php:109
+#: includes/widgets/image-carousel.php:437
+#: includes/widgets/image-gallery.php:137 includes/widgets/social-icons.php:183
+msgid "Custom"
+msgstr "Anpassad"
+
+#: includes/controls/groups/typography.php:28
+msgctxt "Typography Control"
+msgid "Typography"
+msgstr "Typografi"
+
+#: includes/controls/groups/typography.php:121
+msgctxt "Typography Control"
+msgid "Letter Spacing"
+msgstr "Teckenmellanrum"
+
+#: includes/controls/groups/typography.php:105
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr "Radavstånd"
+
+#: includes/elements/column.php:149 includes/elements/column.php:219
+#: includes/elements/column.php:331 includes/elements/column.php:591
+#: includes/elements/section.php:369 includes/elements/section.php:447
+#: includes/elements/section.php:560 includes/elements/section.php:977
+#: includes/widgets/button.php:197 includes/widgets/common.php:84
+#: includes/widgets/common.php:148 includes/widgets/common.php:214
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/controls/groups/typography.php:93
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "Stil"
+
+#: includes/controls/groups/typography.php:80
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "Omvandla"
+
+#: includes/controls/groups/typography.php:73
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "Vikt"
+
+#: includes/controls/groups/typography.php:58
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Familj"
+
+#: includes/controls/groups/typography.php:38
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "Storlek"
+
+#: includes/controls/groups/border.php:46
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Färg"
+
+#: includes/controls/groups/border.php:35
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Bredd"
+
+#: includes/widgets/divider.php:39 includes/widgets/icon-list.php:170
+msgid "Dashed"
+msgstr "Streckad"
+
+#: includes/widgets/divider.php:38 includes/widgets/icon-list.php:169
+msgid "Dotted"
+msgstr "Punktad"
+
+#: includes/widgets/divider.php:37 includes/widgets/icon-list.php:168
+msgid "Double"
+msgstr "Dubbel"
+
+#: includes/widgets/divider.php:36 includes/widgets/icon-list.php:167
+msgid "Solid"
+msgstr "Solid"
+
+#: includes/controls/animation.php:92 includes/controls/groups/border.php:23
+#: includes/controls/hover-animation.php:69 includes/elements/section.php:666
+#: includes/widgets/image-carousel.php:107
+#: includes/widgets/image-carousel.php:120
+#: includes/widgets/image-carousel.php:164
+#: includes/widgets/image-gallery.php:76 includes/widgets/image.php:94
+msgid "None"
+msgstr "Ingen"
+
+#: includes/controls/groups/border.php:20
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Kantstil"
+
+#: includes/controls/groups/background.php:278
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr "Andrahandsval bakgrund"
+
+#: includes/controls/groups/background.php:265
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr "Videolänk"
+
+#: includes/controls/groups/background.php:252
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Täck"
+
+#: includes/controls/groups/background.php:251
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "Automatisk"
+
+#: includes/controls/groups/background.php:246
+msgctxt "Background Control"
+msgid "Size"
+msgstr "Storlek"
+
+#: includes/controls/groups/background.php:234
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr "Repetera vertikalt"
+
+#: includes/controls/groups/background.php:233
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr "Repetera horisontellt"
+
+#: includes/controls/groups/background.php:231
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr "Ingen repetering"
+
+#: includes/controls/groups/background.php:226
+#: includes/controls/groups/background.php:232
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Repetera"
+
+#: includes/controls/groups/background.php:214
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Fixerad"
+
+#: includes/controls/groups/background.php:213
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Skroll"
+
+#: includes/controls/groups/background.php:208
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "Bilaga"
+
+#: includes/controls/groups/background.php:157
+#: includes/controls/groups/background.php:196
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Botten höger"
+
+#: includes/controls/groups/background.php:155
+#: includes/controls/groups/background.php:195
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Botten center"
+
+#: includes/controls/groups/background.php:156
+#: includes/controls/groups/background.php:194
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Botten vänster"
+
+#: includes/controls/groups/background.php:151
+#: includes/controls/groups/background.php:193
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Mitten höger"
+
+#: includes/controls/groups/background.php:149
+#: includes/controls/groups/background.php:192
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Mitten center"
+
+#: includes/controls/groups/background.php:150
+#: includes/controls/groups/background.php:191
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Mitten vänster"
+
+#: includes/controls/groups/background.php:154
+#: includes/controls/groups/background.php:190
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Topp höger"
+
+#: includes/controls/groups/background.php:152
+#: includes/controls/groups/background.php:189
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Topp center"
+
+#: includes/controls/groups/background.php:153
+#: includes/controls/groups/background.php:188
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "Topp vänster"
+
+#: includes/controls/groups/background.php:146
+#: includes/controls/groups/background.php:183
+msgctxt "Background Control"
+msgid "Position"
+msgstr "Position"
+
+#: includes/controls/groups/background.php:173
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr "Backgrundsbild"
+
+#: includes/controls/groups/background.php:171
+msgctxt "Background Control"
+msgid "Image"
+msgstr "Bild"
+
+#: includes/controls/groups/background.php:57
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "Backgrundsfärg"
+
+#: includes/controls/groups/background.php:54
+msgctxt "Background Control"
+msgid "Color"
+msgstr "Färg"
+
+#: includes/controls/groups/background.php:47
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "Bakgrundstyp"
+
+#: includes/controls/groups/background.php:37
+msgctxt "Background Control"
+msgid "Background Video"
+msgstr "Bakgrundsvideo"
+
+#: includes/controls/groups/background.php:29
+msgctxt "Background Control"
+msgid "Classic"
+msgstr "Klassisk"
+
+#: includes/controls/font.php:43 includes/editor-templates/panel.php:185
+msgid "Google"
+msgstr "Google"
+
+#: includes/controls/font.php:37 includes/editor-templates/panel.php:179
+msgid "System"
+msgstr "System"
+
+#: includes/widgets/audio.php:38 includes/widgets/button.php:70
+#: includes/widgets/heading.php:43 includes/widgets/icon-list.php:71
+#: includes/widgets/icon.php:75 includes/widgets/social-icons.php:102
+#: includes/widgets/video.php:46 includes/widgets/video.php:74
+msgid "Link"
+msgstr "Länk"
+
+#: includes/controls/dimensions.php:60 includes/elements/column.php:504
+#: includes/elements/section.php:884 includes/widgets/accordion.php:95
+#: includes/widgets/button.php:86 includes/widgets/divider.php:118
+#: includes/widgets/heading.php:97 includes/widgets/icon-box.php:118
+#: includes/widgets/icon-box.php:365 includes/widgets/icon-list.php:124
+#: includes/widgets/icon.php:88 includes/widgets/image-box.php:88
+#: includes/widgets/image-box.php:240 includes/widgets/image-carousel.php:276
+#: includes/widgets/image-carousel.php:512
+#: includes/widgets/image-gallery.php:226 includes/widgets/image.php:57
+#: includes/widgets/image.php:257 includes/widgets/social-icons.php:137
+#: includes/widgets/testimonial.php:98 includes/widgets/text-editor.php:67
+msgid "Left"
+msgstr "Vänster"
+
+#: includes/controls/dimensions.php:59 includes/elements/column.php:90
+#: includes/elements/section.php:295 includes/elements/section.php:314
+#: includes/elements/section.php:675 includes/widgets/icon-box.php:395
+#: includes/widgets/image-box.php:270
+msgid "Bottom"
+msgstr "Botten"
+
+#: includes/controls/dimensions.php:58 includes/elements/column.php:512
+#: includes/elements/section.php:892 includes/widgets/accordion.php:96
+#: includes/widgets/button.php:94 includes/widgets/divider.php:126
+#: includes/widgets/heading.php:105 includes/widgets/icon-box.php:126
+#: includes/widgets/icon-box.php:373 includes/widgets/icon-list.php:132
+#: includes/widgets/icon.php:96 includes/widgets/image-box.php:96
+#: includes/widgets/image-box.php:248 includes/widgets/image-carousel.php:277
+#: includes/widgets/image-carousel.php:520
+#: includes/widgets/image-gallery.php:234 includes/widgets/image.php:65
+#: includes/widgets/image.php:265 includes/widgets/social-icons.php:145
+#: includes/widgets/testimonial.php:106 includes/widgets/text-editor.php:75
+msgid "Right"
+msgstr "Höger"
+
+#: includes/controls/dimensions.php:57 includes/elements/column.php:88
+#: includes/elements/section.php:293 includes/elements/section.php:312
+#: includes/elements/section.php:674 includes/widgets/icon-box.php:122
+#: includes/widgets/icon-box.php:393 includes/widgets/image-box.php:92
+#: includes/widgets/image-box.php:268 includes/widgets/testimonial.php:81
+#: includes/widgets/video.php:475
+msgid "Top"
+msgstr "Topp"
+
+#: includes/controls/box-shadow.php:80 includes/controls/color.php:64
+#: includes/controls/text-shadow.php:73
+msgid "Hex Value"
+msgstr "Hex-värde"
+
+#: core/settings/page/model.php:107 includes/base/widget-base.php:81
+#: includes/controls/font.php:36 includes/controls/groups/typography.php:65
+#: includes/controls/groups/typography.php:84
+#: includes/controls/groups/typography.php:97
+#: includes/editor-templates/panel.php:177 includes/elements/column.php:87
+#: includes/elements/column.php:122 includes/elements/column.php:657
+#: includes/elements/section.php:191 includes/elements/section.php:208
+#: includes/elements/section.php:253 includes/elements/section.php:311
+#: includes/elements/section.php:331 includes/widgets/button.php:47
+#: includes/widgets/heading.php:60 includes/widgets/icon-box.php:40
+#: includes/widgets/icon.php:36 includes/widgets/image-carousel.php:64
+#: includes/widgets/image-carousel.php:147
+#: includes/widgets/image-carousel.php:436
+#: includes/widgets/image-gallery.php:88 includes/widgets/image-gallery.php:104
+#: includes/widgets/image-gallery.php:136 includes/widgets/image.php:121
+#: includes/widgets/progress.php:52 includes/widgets/text-editor.php:132
+msgid "Default"
+msgstr "Standard"
+
+#: includes/controls/gallery.php:53
+msgid "Clear"
+msgstr "Rensa"
+
+#: includes/admin.php:117 includes/admin.php:125 includes/admin.php:175
+#: includes/frontend.php:426
+msgid "Edit with Elementor"
+msgstr "Redigera med Elementor"
+
+#: includes/admin.php:114
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Tillbaka till WordPress-redigeraren"
+
+#: elementor.php:91
+msgid "Elementor requires PHP version 5.4+, plugin is currently NOT ACTIVE."
+msgstr "Elementor kräver PHP version 5.4+. Tillägget är för närvarande inte aktivt."

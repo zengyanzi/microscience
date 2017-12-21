@@ -1,0 +1,342 @@
+0000.003 (0) Opened log file at time: Wed, 08 Nov 2017 01:14:18 +0000 on http://www.microscience.com.au
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.12 WP: 4.8.3 PHP: 5.4.45 (cgi-fcgi, Windows NT NORRIN 6.3 build 9200 (Windows Server 2012 R2 Standard Edition) i586) MySQL: 5.6.33 WPLANG: en_US Server: Microsoft-IIS/8.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31.6M | 32M) multisite: N openssl: OpenSSL 0.9.8zf 19 Mar 2015 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 183670.3 MB
+0000.016 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB:  (schedule: monthly)
+0000.019 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.042 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1508895611, seconds_ago=1208047)
+0000.048 (0) Semaphore (f, wp_options) was stuck, set lock time to 2017-11-08 01:14:18
+0000.054 (0) Semaphore (f, wp_options) reset to 1
+0000.059 (0) Set semaphore last lock (f) time to 2017-11-08 01:14:18
+0000.064 (0) Semaphore lock (f) complete
+0000.074 (0) Backup run: resumption=0, nonce=f2c924488c96, begun at=1510103658 (0s ago), job type=backup
+0000.080 (0) Scheduling a resumption (1) after 300 seconds (1510103958) in case this run gets aborted
+0000.140 (0) Checking if we have a zip executable available
+0000.150 (0) Creation of backups of directories: beginning
+0000.186 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0023.551 (0) Total entities for the zip file: 1053 directories, 6720 files (0 skipped as non-modified), 83 MB
+0023.593 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0023.849 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 100 files added (on-disk size: 179.5 KB)
+0024.077 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 200 files added (on-disk size: 179.5 KB)
+0024.341 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 300 files added (on-disk size: 179.5 KB)
+0024.622 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 400 files added (on-disk size: 179.5 KB)
+0024.898 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 500 files added (on-disk size: 179.5 KB)
+0024.906 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 MB, 6720 files batched, 501 (502) added so far); re-opening (prior size: 179.5 KB)
+0026.320 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 600 files added (on-disk size: 1695.5 KB)
+0026.628 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 700 files added (on-disk size: 1695.5 KB)
+0026.927 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 800 files added (on-disk size: 1695.5 KB)
+0027.194 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 900 files added (on-disk size: 1695.5 KB)
+0027.463 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1000 files added (on-disk size: 1695.5 KB)
+0027.474 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.6 MB, 6720 files batched, 501 (1003) added so far); re-opening (prior size: 1695.5 KB)
+0028.040 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1100 files added (on-disk size: 2144.6 KB)
+0028.326 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1200 files added (on-disk size: 2144.6 KB)
+0028.595 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1300 files added (on-disk size: 2144.6 KB)
+0028.871 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1400 files added (on-disk size: 2144.6 KB)
+0029.111 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1500 files added (on-disk size: 2144.6 KB)
+0029.123 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 6720 files batched, 501 (1504) added so far); re-opening (prior size: 2144.6 KB)
+0029.661 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1600 files added (on-disk size: 2843.7 KB)
+0029.913 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1700 files added (on-disk size: 2843.7 KB)
+0030.149 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1800 files added (on-disk size: 2843.7 KB)
+0030.415 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1900 files added (on-disk size: 2843.7 KB)
+0030.689 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2000 files added (on-disk size: 2843.7 KB)
+0030.717 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 6720 files batched, 501 (2005) added so far); re-opening (prior size: 2843.7 KB)
+0033.729 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2100 files added (on-disk size: 5584.6 KB)
+0033.955 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2200 files added (on-disk size: 5584.6 KB)
+0034.173 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2300 files added (on-disk size: 5584.6 KB)
+0034.392 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2400 files added (on-disk size: 5584.6 KB)
+0034.642 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2500 files added (on-disk size: 5584.6 KB)
+0034.661 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 6720 files batched, 501 (2506) added so far); re-opening (prior size: 5584.6 KB)
+0036.366 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2600 files added (on-disk size: 6762.3 KB)
+0036.591 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2700 files added (on-disk size: 6762.3 KB)
+0036.813 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2800 files added (on-disk size: 6762.3 KB)
+0037.059 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2900 files added (on-disk size: 6762.3 KB)
+0037.354 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3000 files added (on-disk size: 6762.3 KB)
+0037.380 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.6 MB, 6720 files batched, 501 (3007) added so far); re-opening (prior size: 6762.3 KB)
+0041.121 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3100 files added (on-disk size: 10602.6 KB)
+0041.372 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3200 files added (on-disk size: 10602.6 KB)
+0041.628 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3300 files added (on-disk size: 10602.6 KB)
+0041.858 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3400 files added (on-disk size: 10602.6 KB)
+0042.104 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3500 files added (on-disk size: 10602.6 KB)
+0042.123 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 6720 files batched, 501 (3508) added so far); re-opening (prior size: 10602.6 KB)
+0045.676 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3600 files added (on-disk size: 13411.1 KB)
+0045.949 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3700 files added (on-disk size: 13411.1 KB)
+0046.213 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3800 files added (on-disk size: 13411.1 KB)
+0046.522 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3900 files added (on-disk size: 13411.1 KB)
+0046.867 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4000 files added (on-disk size: 13411.1 KB)
+0046.901 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.9 MB, 6720 files batched, 501 (4009) added so far); re-opening (prior size: 13411.1 KB)
+0052.374 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4100 files added (on-disk size: 18089 KB)
+0052.741 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4200 files added (on-disk size: 18089 KB)
+0053.130 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4300 files added (on-disk size: 18089 KB)
+0053.487 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4400 files added (on-disk size: 18089 KB)
+0053.833 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4500 files added (on-disk size: 18089 KB)
+0053.880 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 6720 files batched, 501 (4510) added so far); re-opening (prior size: 18089 KB)
+0057.560 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4600 files added (on-disk size: 18919.2 KB)
+0058.037 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4700 files added (on-disk size: 18919.2 KB)
+0058.407 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4800 files added (on-disk size: 18919.2 KB)
+0058.708 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4900 files added (on-disk size: 18919.2 KB)
+0058.962 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5000 files added (on-disk size: 18919.2 KB)
+0059.003 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 6720 files batched, 501 (5011) added so far); re-opening (prior size: 18919.2 KB)
+0063.248 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5100 files added (on-disk size: 21277.2 KB)
+0063.516 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5200 files added (on-disk size: 21277.2 KB)
+0063.803 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5300 files added (on-disk size: 21277.2 KB)
+0064.112 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5400 files added (on-disk size: 21277.2 KB)
+0064.425 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5500 files added (on-disk size: 21277.2 KB)
+0064.463 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.4 MB, 6720 files batched, 501 (5512) added so far); re-opening (prior size: 21277.2 KB)
+0067.289 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5600 files added (on-disk size: 22666.3 KB)
+0067.535 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5700 files added (on-disk size: 22666.3 KB)
+0067.770 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5800 files added (on-disk size: 22666.3 KB)
+0068.014 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5900 files added (on-disk size: 22666.3 KB)
+0068.256 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6000 files added (on-disk size: 22666.3 KB)
+0068.294 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 6720 files batched, 501 (6013) added so far); re-opening (prior size: 22666.3 KB)
+0070.685 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6100 files added (on-disk size: 25964.6 KB)
+0070.968 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6200 files added (on-disk size: 25964.6 KB)
+0071.209 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6300 files added (on-disk size: 25964.6 KB)
+0071.490 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6400 files added (on-disk size: 25964.6 KB)
+0071.732 (0) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6500 files added (on-disk size: 25964.6 KB)
+0071.780 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.8 MB, 6720 files batched, 501 (6514) added so far); re-opening (prior size: 25964.6 KB)
+0334.091 (1) Opened log file at time: Wed, 08 Nov 2017 01:19:52 +0000 on http://www.microscience.com.au
+0334.106 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.12 WP: 4.8.3 PHP: 5.4.45 (cgi-fcgi, Windows NT NORRIN 6.3 build 9200 (Windows Server 2012 R2 Standard Edition) i586) MySQL: 5.6.33 WPLANG: en_US Server: Microsoft-IIS/8.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31.6M | 32M) multisite: N openssl: OpenSSL 0.9.8zf 19 Mar 2015 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0334.110 (1) Free space on disk containing Updraft's temporary directory: 183617.2 MB
+0334.117 (1) Backup run: resumption=1, nonce=f2c924488c96, begun at=1510103658 (334s ago), job type=backup, previous check-in=70.4s
+0334.124 (1) Scheduling a resumption (2) after 300 seconds (1510104292) in case this run gets aborted
+0334.141 (1) Checking if we have a zip executable available
+0334.143 (1) Creation of backups of directories: had begun; will resume
+0334.151 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0334.161 (1) File exists (E:\w3server\microscience.com.au\httpdocs/wp-content/updraft/backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1510103729, time_now=1510103992, diff=263)
+0334.200 (1) backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: Zip file already exists, with 7066 files
+0357.800 (1) Total entities for the zip file: 1053 directories, 6720 files (0 skipped as non-modified), 83 MB
+0357.960 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 100 files added (on-disk size: 25964.6 KB)
+0358.063 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 200 files added (on-disk size: 25964.6 KB)
+0358.187 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 300 files added (on-disk size: 25964.6 KB)
+0358.316 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 400 files added (on-disk size: 25964.6 KB)
+0358.445 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 500 files added (on-disk size: 25964.6 KB)
+0358.570 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 600 files added (on-disk size: 25964.6 KB)
+0358.695 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 700 files added (on-disk size: 25964.6 KB)
+0358.820 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 800 files added (on-disk size: 25964.6 KB)
+0358.954 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 900 files added (on-disk size: 25964.6 KB)
+0359.079 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1000 files added (on-disk size: 25964.6 KB)
+0359.210 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1100 files added (on-disk size: 25964.6 KB)
+0359.332 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1200 files added (on-disk size: 25964.6 KB)
+0359.451 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1300 files added (on-disk size: 25964.6 KB)
+0359.581 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1400 files added (on-disk size: 25964.6 KB)
+0359.687 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1500 files added (on-disk size: 25964.6 KB)
+0359.786 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1600 files added (on-disk size: 25964.6 KB)
+0359.895 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1700 files added (on-disk size: 25964.6 KB)
+0359.994 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1800 files added (on-disk size: 25964.6 KB)
+0360.098 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 1900 files added (on-disk size: 25964.6 KB)
+0360.206 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2000 files added (on-disk size: 25964.6 KB)
+0360.340 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2100 files added (on-disk size: 25964.6 KB)
+0360.439 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2200 files added (on-disk size: 25964.6 KB)
+0360.533 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2300 files added (on-disk size: 25964.6 KB)
+0360.633 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2400 files added (on-disk size: 25964.6 KB)
+0360.746 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2500 files added (on-disk size: 25964.6 KB)
+0360.858 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2600 files added (on-disk size: 25964.6 KB)
+0360.964 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2700 files added (on-disk size: 25964.6 KB)
+0361.061 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2800 files added (on-disk size: 25964.6 KB)
+0361.170 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 2900 files added (on-disk size: 25964.6 KB)
+0361.287 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3000 files added (on-disk size: 25964.6 KB)
+0361.408 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3100 files added (on-disk size: 25964.6 KB)
+0361.514 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3200 files added (on-disk size: 25964.6 KB)
+0361.622 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3300 files added (on-disk size: 25964.6 KB)
+0361.718 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3400 files added (on-disk size: 25964.6 KB)
+0361.812 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3500 files added (on-disk size: 25964.6 KB)
+0361.910 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3600 files added (on-disk size: 25964.6 KB)
+0362.019 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3700 files added (on-disk size: 25964.6 KB)
+0362.110 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3800 files added (on-disk size: 25964.6 KB)
+0362.236 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 3900 files added (on-disk size: 25964.6 KB)
+0362.391 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4000 files added (on-disk size: 25964.6 KB)
+0362.545 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4100 files added (on-disk size: 25964.6 KB)
+0362.692 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4200 files added (on-disk size: 25964.6 KB)
+0362.844 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4300 files added (on-disk size: 25964.6 KB)
+0363.002 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4400 files added (on-disk size: 25964.6 KB)
+0363.153 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4500 files added (on-disk size: 25964.6 KB)
+0363.306 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4600 files added (on-disk size: 25964.6 KB)
+0363.473 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4700 files added (on-disk size: 25964.6 KB)
+0363.597 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4800 files added (on-disk size: 25964.6 KB)
+0363.710 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 4900 files added (on-disk size: 25964.6 KB)
+0363.813 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5000 files added (on-disk size: 25964.6 KB)
+0363.927 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5100 files added (on-disk size: 25964.6 KB)
+0364.042 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5200 files added (on-disk size: 25964.6 KB)
+0364.167 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5300 files added (on-disk size: 25964.6 KB)
+0364.290 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5400 files added (on-disk size: 25964.6 KB)
+0364.394 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5500 files added (on-disk size: 25964.6 KB)
+0364.497 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5600 files added (on-disk size: 25964.6 KB)
+0364.600 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5700 files added (on-disk size: 25964.6 KB)
+0364.697 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5800 files added (on-disk size: 25964.6 KB)
+0364.807 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 5900 files added (on-disk size: 25964.6 KB)
+0364.916 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6000 files added (on-disk size: 25964.6 KB)
+0365.160 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6100 files added (on-disk size: 25964.6 KB)
+0365.426 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6200 files added (on-disk size: 25964.6 KB)
+0365.669 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6300 files added (on-disk size: 25964.6 KB)
+0365.947 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6400 files added (on-disk size: 25964.6 KB)
+0366.185 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6500 files added (on-disk size: 25964.6 KB)
+0366.231 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.8 MB, 6720 files batched, 501 (501) added so far); re-opening (prior size: 25964.6 KB)
+0369.136 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6600 files added (on-disk size: 28405.7 KB)
+0369.410 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp: 6700 files added (on-disk size: 28405.7 KB)
+0370.703 (1) Created plugins zip (0) - 31322.5 KB in 36.5 s (857.7 KB/s) (sha1: 4d4bf39fbfcc986b0dbfc1bddcb8a66c15f3922c, sha256: d461035048f471d8920496c5249a6064d96eab3ff394a5802d6a5da4eb860a90)
+0370.707 (1) Deleting old temporary file: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip.tmp.a39692
+0370.726 (1) Beginning creation of dump of themes (split every: 400 MB)
+0375.725 (1) Total entities for the zip file: 245 directories, 1310 files (0 skipped as non-modified), 26.5 MB
+0375.734 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0375.958 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 100 files added (on-disk size: 40.4 KB)
+0376.188 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 200 files added (on-disk size: 40.4 KB)
+0376.433 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 300 files added (on-disk size: 40.4 KB)
+0376.637 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 400 files added (on-disk size: 40.4 KB)
+0376.971 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 500 files added (on-disk size: 40.4 KB)
+0376.992 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.7 MB, 1310 files batched, 501 (502) added so far); re-opening (prior size: 40.4 KB)
+0380.323 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 600 files added (on-disk size: 5116 KB)
+0380.637 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 700 files added (on-disk size: 5116 KB)
+0380.935 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 800 files added (on-disk size: 5116 KB)
+0381.171 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 900 files added (on-disk size: 5116 KB)
+0381.391 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 1000 files added (on-disk size: 5116 KB)
+0381.402 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 1310 files batched, 501 (1003) added so far); re-opening (prior size: 5116 KB)
+0383.525 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 1100 files added (on-disk size: 8349.5 KB)
+0383.731 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 1200 files added (on-disk size: 8349.5 KB)
+0383.938 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip.tmp: 1300 files added (on-disk size: 8349.5 KB)
+0387.130 (1) Created themes zip (0) - 13749.3 KB in 16.4 s (839.5 KB/s) (sha1: 9f0386d90e04814dd43eebda0f357abe872f2bdb, sha256: 50970063fee89dbffb5bfcdb30894789a9072ef360847537c2227f35a4f25175)
+0387.149 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0387.154 (1) Looking for candidates to back up in: E:\w3server\microscience.com.au\httpdocs/wp-content/uploads
+0387.166 (1) finding files: 2016: adding to list (1)
+0387.177 (1) finding files: 2017: adding to list (2)
+0387.185 (1) finding files: elementor: adding to list (3)
+0387.187 (1) finding files: redux: adding to list (4)
+0387.198 (1) finding files: siteorigin-widgets: adding to list (5)
+0387.201 (1) finding files: tg-demo-pack: adding to list (6)
+0387.205 (1) finding files: usersultramedia: adding to list (7)
+0387.213 (1) Beginning creation of dump of uploads (split every: 400 MB)
+0389.930 (1) Total entities for the zip file: 21 directories, 1020 files (0 skipped as non-modified), 53 MB
+0389.936 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0390.142 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 100 files added (on-disk size: 5.8 KB)
+0390.341 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 200 files added (on-disk size: 5.8 KB)
+0390.541 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 300 files added (on-disk size: 5.8 KB)
+0390.744 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 400 files added (on-disk size: 5.8 KB)
+0390.944 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 500 files added (on-disk size: 5.8 KB)
+0390.950 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.6 MB, 1020 files batched, 501 (502) added so far); re-opening (prior size: 5.8 KB)
+0395.425 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 600 files added (on-disk size: 20936.8 KB)
+0395.626 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 700 files added (on-disk size: 20936.8 KB)
+0395.828 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 800 files added (on-disk size: 20936.8 KB)
+0396.030 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 900 files added (on-disk size: 20936.8 KB)
+0396.087 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1020 files batched, 425 (927) added so far); re-opening (prior size: 20936.8 KB)
+0400.902 (1) A useful amount of data was added after this amount of zip processing: 6.1 s (normalised: 6.1 s, rate: 4201.2 KB/s)
+0400.908 (1) Performance is good - will increase the amount of data we attempt to batch (time=6.0990180969238, normalised_time=6.0934579652966, max_time=70, data points known=1, old_max_bytes=26214400, new_max_bytes=180686369)
+0401.065 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip.tmp: 1000 files added (on-disk size: 45463.9 KB)
+0404.334 (1) Created uploads zip (0) - 51953.1 KB in 17.1 s (3040.2 KB/s) (sha1: 0e91cd35180ae4dc846c2c283e13d3450149e6bb, sha256: 0bbf6318790b6dad78a884c0d8dc023a18c47f266f31a020e027db743e0547ea)
+0404.342 (1) Beginning backup of other directories found in the content directory (index: 0)
+0404.345 (1) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0404.347 (1) Looking for candidates to back up in: E:\w3server\microscience.com.au\httpdocs/wp-content
+0404.350 (1) finding files: index.php: adding to list (1)
+0404.353 (1) finding files: languages: adding to list (2)
+0404.355 (1) finding files: plugins: skipping: this is the plugins directory
+0404.358 (1) finding files: themes: skipping: this is the themes directory
+0404.363 (1) finding files: updraft: skipping: this is the updraft directory
+0404.365 (1) finding files: upgrade: skipping: excluded by options
+0404.368 (1) finding files: uploads: skipping: this is the uploads directory
+0404.370 (1) finding files: wflogs: adding to list (3)
+0405.419 (1) Total entities for the zip file: 4 directories, 569 files (0 skipped as non-modified), 56.9 MB
+0405.578 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0405.747 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0405.933 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0406.114 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0406.294 (1) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0406.300 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (48.8 MB, 569 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0695.849 (2) Opened log file at time: Wed, 08 Nov 2017 01:25:54 +0000 on http://www.microscience.com.au
+0695.857 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.12 WP: 4.8.3 PHP: 5.4.45 (cgi-fcgi, Windows NT NORRIN 6.3 build 9200 (Windows Server 2012 R2 Standard Edition) i586) MySQL: 5.6.33 WPLANG: en_US Server: Microsoft-IIS/8.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31.6M | 32.3M) multisite: N openssl: OpenSSL 0.9.8zf 19 Mar 2015 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0695.860 (2) Free space on disk containing Updraft's temporary directory: 183561 MB
+0695.867 (2) Backup run: resumption=2, nonce=f2c924488c96, begun at=1510103658 (696s ago), job type=backup, previous check-in=69.6s
+0695.874 (2) Scheduling a resumption (3) after 300 seconds (1510104654) in case this run gets aborted
+0695.891 (2) Checking if we have a zip executable available
+0695.894 (2) Creation of backups of directories: had begun; will resume
+0695.905 (2) Beginning creation of dump of plugins (split every: 400 MB)
+0695.911 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip: this file has already been created (age: 326 s)
+0695.941 (2) Beginning creation of dump of themes (split every: 400 MB)
+0695.945 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip: this file has already been created (age: 309 s)
+0695.973 (2) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0695.977 (2) Looking for candidates to back up in: E:\w3server\microscience.com.au\httpdocs/wp-content/uploads
+0695.981 (2) finding files: 2016: adding to list (1)
+0695.983 (2) finding files: 2017: adding to list (2)
+0695.987 (2) finding files: elementor: adding to list (3)
+0695.990 (2) finding files: redux: adding to list (4)
+0695.999 (2) finding files: siteorigin-widgets: adding to list (5)
+0696.003 (2) finding files: tg-demo-pack: adding to list (6)
+0696.007 (2) finding files: usersultramedia: adding to list (7)
+0696.009 (2) Beginning creation of dump of uploads (split every: 400 MB)
+0696.021 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip: this file has already been created (age: 293 s)
+0696.049 (2) Beginning backup of other directories found in the content directory (index: 0)
+0696.052 (2) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0696.054 (2) Looking for candidates to back up in: E:\w3server\microscience.com.au\httpdocs/wp-content
+0696.058 (2) finding files: index.php: adding to list (1)
+0696.062 (2) finding files: languages: adding to list (2)
+0696.066 (2) finding files: plugins: skipping: this is the plugins directory
+0696.068 (2) finding files: themes: skipping: this is the themes directory
+0696.070 (2) finding files: updraft: skipping: this is the updraft directory
+0696.072 (2) finding files: upgrade: skipping: excluded by options
+0696.075 (2) finding files: uploads: skipping: this is the uploads directory
+0696.077 (2) finding files: wflogs: adding to list (3)
+0696.083 (2) File exists (E:\w3server\microscience.com.au\httpdocs/wp-content/updraft/backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1510104064, time_now=1510104354, diff=290)
+0696.104 (2) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp
+0697.139 (2) Total entities for the zip file: 4 directories, 569 files (0 skipped as non-modified), 56.9 MB
+0697.302 (2) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0697.466 (2) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0697.646 (2) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0697.826 (2) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0698.007 (2) Zip: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0698.011 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (48.8 MB, 569 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0706.803 (2) Created others zip (0) - 16488 KB in 10.7 s (1541 KB/s) (sha1: 9c6e6ca844cfe9e715318bdaf9d4fe122df2962a, sha256: 0bbfff8d76be8498e6e6b89998f147499751e29a0a26c2040a87110af24a47aa)
+0706.808 (2) Deleting old temporary file: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip.tmp.a78068
+0706.826 (2) Saving backup status to database (elements: 8)
+0706.834 (2) No database backup (wp) - not part of this run
+0706.841 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0706.845 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0706.848 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0706.861 (2) backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip: others: This file has not yet been successfully uploaded: will queue
+0706.864 (2) Saving backup history. Total backup size: 110.9 MB
+0706.874 (2) Requesting upload of the files that have not yet been successfully uploaded (4)
+0706.886 (2) Cloud backup selection (1/1):  (last)
+0706.892 (2) No remote despatch: user chose no remote backup service
+0706.907 (2) Recording as successfully uploaded: backup_2017-11-08-1414_Microscience_f2c924488c96-plugins.zip (ced5259797301b2864d2a333b9761cf2)
+0706.960 (2) Recording as successfully uploaded: backup_2017-11-08-1414_Microscience_f2c924488c96-themes.zip (998d9a796037b18340eb0740a98f69f5)
+0706.987 (2) Recording as successfully uploaded: backup_2017-11-08-1414_Microscience_f2c924488c96-uploads.zip (dd8b3940aa56d85fe0d0f70800abbd2b)
+0706.995 (2) Recording as successfully uploaded: backup_2017-11-08-1414_Microscience_f2c924488c96-others.zip (008987aab53b9732c4a934a89ced3125)
+0707.004 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0707.007 (2) Number of backup sets in history: 5; groups (db): 1
+0707.009 (2) Examining (for databases) backup set with group_id=0, nonce=f2c924488c96, datestamp=1510103658 (Nov 08 2017 01:14:18)
+0707.011 (2) Examining (for databases) backup set with group_id=0, nonce=f6765c3059d3, datestamp=1509585357 (Nov 02 2017 01:15:57)
+0707.011 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+0707.013 (2) Examining (for databases) backup set with group_id=0, nonce=bbaf11418b15, datestamp=1508895611 (Oct 25 2017 01:40:11)
+0707.013 (2) Examining (for databases) backup set with group_id=0, nonce=d3b7e5d53b0f, datestamp=1507685318 (Oct 11 2017 01:28:38)
+0707.013 (2) Examining (for databases) backup set with group_id=0, nonce=6e61e8dfb9cf, datestamp=1506993278 (Oct 03 2017 01:14:38)
+0707.013 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+0707.014 (2) Number of backup sets in history: 5; groups (files): 1
+0707.016 (2) Examining (for files) backup set with nonce=f2c924488c96, datestamp=1510103658 (Nov 08 2017 01:14:18)
+0707.016 (2) This backup set is the backup set just made, so will not be deleted.
+0707.019 (2) This backup set is the backup set just made, so will not be deleted.
+0707.020 (2) This backup set is the backup set just made, so will not be deleted.
+0707.020 (2) This backup set is the backup set just made, so will not be deleted.
+0707.020 (2) This backup set remains non-empty (f=1/d=0); will retain in history
+0707.028 (2) Examining (for files) backup set with nonce=f6765c3059d3, datestamp=1509585357 (Nov 02 2017 01:15:57)
+0707.028 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+0707.031 (2) Examining (for files) backup set with nonce=bbaf11418b15, datestamp=1508895611 (Oct 25 2017 01:40:11)
+0707.031 (2) This backup set remains non-empty (f=1/d=0); will retain in history
+0707.034 (2) Examining (for files) backup set with nonce=d3b7e5d53b0f, datestamp=1507685318 (Oct 11 2017 01:28:38)
+0707.034 (2) plugins: over retain limit (2); will delete this file entity
+0707.034 (2) themes: over retain limit (2); will delete this file entity
+0707.034 (2) uploads: over retain limit (2); will delete this file entity
+0707.034 (2) others: over retain limit (2); will delete this file entity
+0707.034 (2) Delete file: backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-plugins.zip, service=none
+0707.037 (2) Deleting local copy (backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-plugins.zip)
+0707.040 (2) Delete file: backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-themes.zip, service=none
+0707.042 (2) Deleting local copy (backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-themes.zip)
+0707.045 (2) Delete file: backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-uploads.zip, service=none
+0707.047 (2) Deleting local copy (backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-uploads.zip)
+0707.050 (2) Delete file: backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-others.zip, service=none
+0707.053 (2) Deleting local copy (backup_2017-10-11-1428_Microscience_d3b7e5d53b0f-others.zip)
+0707.059 (2) This backup set is now empty; will remove from history
+0707.062 (2) Deleting log file (log.d3b7e5d53b0f.txt)
+0707.065 (2) Examining (for files) backup set with nonce=6e61e8dfb9cf, datestamp=1506993278 (Oct 03 2017 01:14:38)
+0707.065 (2) This backup set remains non-empty (f=0/d=1); will retain in history
+0707.068 (2) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0707.075 (2) Resume backup (f2c924488c96, 2): finish run
+0707.080 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0707.091 (2) Fetching RSS news feed
+0707.657 (2) Fetched RSS news feed; result is a: SimplePie
+0707.761 (2) Sending email ('Files only (database was not part of this particular schedule) (Full backup)') report (attachments: 0, size: 0 KB) to: jenny...
+0707.891 (2) The backup apparently succeeded and is now complete
